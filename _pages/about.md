@@ -16,7 +16,7 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 
 ## Presentations
 
-- ICRA 2022 (in person): Compensating for Material Deformation in Foldable Robots Via Deep Learning --a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
+- ICRA 2022 (in person): Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
 
 - ICRA 2021 (virtual): Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot, [https://youtu.be/EszTDc9slyw](https://youtu.be/EszTDc9slyw).
 

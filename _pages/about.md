@@ -7,14 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
+======
 
 My name is Yuhao Jiang (蒋宇豪). I'm a PhD candidate major in Mechanical Engineering at [IDEALab](https://idealab.asu.edu/), Arizona State University, supervised by [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). 
 
-## Research Interest
+Research Interest
+======
 
 My research interests lie in design, manufacture, modeling, optimization, and control of soft robotic systems. More specifically, I study the curvature and shape change in soft surfaces and implementing these behaviors into novel soft robotic systems so that manufacture, actuation, and control difficulties in traditional soft robotic systems can be consolidated, this will extend the versatility of soft robotic systems in applications such as mobile robots, robotic manipulators, bio-inspired robots, and modular robotic systems.
 
-## Presentations
+Presentations
+======
 
 - ICRA 2022 (in person): Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
 
@@ -25,7 +29,8 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 - IROS 2020 (virtual): Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
 
 
-## Publications
+Publications
+======
 
 - **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
 
@@ -39,11 +44,13 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 
 - Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric." Proceedings of the ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757)
 
-## Patents
+Patents
+======
 
 - “Mechanisms for steering robotic fish” – US Patent No. 11124281B2 – Date of Patent: Sep 21,2019
 
-## Academic Services
+Academic Services
+======
 
 * **Conference Reviewer**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), International Conference on Soft Robotics (Robosoft), ACM Symposium ON Computational Fabrication (SCF)
 * **Journal Reviewer**: Soft Robotics (SoRo), Journal of Field Robotics (JFR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L)

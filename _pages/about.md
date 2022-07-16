@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yuhao Jiang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yuhao Jiang, I'm a PhD candidate major in Mechanical Engineering at [IDEALab](https://idealab.asu.edu/), Arizona State University, supervised by [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). 
+My name is Yuhao Jiang (蒋宇豪), I'm a PhD candidate major in Mechanical Engineering at [IDEALab](https://idealab.asu.edu/), Arizona State University, supervised by [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). 
 
 ## Research Interest
 

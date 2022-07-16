@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Yuhao Jiang**\
-Ph.D Candidate\
+Ph.D. Candidate\
 [IDEALab](https://idealab.asu.edu/)\
 Arizona State University\
 Technology Center, Room 180, 6075 Innovation Way West, Mesa, AZ 85212\

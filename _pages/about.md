@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
 
 My name is Yuhao Jiang (蒋宇豪). I'm a PhD candidate major in Mechanical Engineering at [IDEALab](https://idealab.asu.edu/), Arizona State University, supervised by [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). 
 

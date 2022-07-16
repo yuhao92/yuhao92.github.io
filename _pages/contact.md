@@ -5,9 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Yuhao Jiang
-=======
-
+**Yuhao Jiang**\
 Ph.D Candidate\
 [IDEALab](https://idealab.asu.edu/)\
 Arizona State University\

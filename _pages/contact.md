@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
 ## Yuhao Jiang ##\
 Ph.D Candidate\
 [IDEALab](https://idealab.asu.edu/)\

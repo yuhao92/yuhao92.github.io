@@ -3,7 +3,7 @@ title: "Shape Change Propagation Through Soft Curved Materials for Dynamically-T
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/robosoft2021
-venue: "2021 IEEE International Conference on Soft Robotics (RoboSoft)"
+venue: "2021 IEEE International Conference on Soft Robotics (RoboSoft 2021)"
 date: 2021-04-12
 location: "Yale University, USA"
 ---

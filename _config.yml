@@ -87,10 +87,10 @@ author:
                       Advisor: [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/)\
   location         : "Technology Center, Room 180, 6075 Innovation Way West, Mesa, AZ 85212"
   employer         : "Arizona State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=ao"
   email            : "yuhao92@asu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuhao-Jiang-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "DuxtX"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yuhaojiang"
+  orcid            : "https://orcid.org/0000-0002-3636-0230"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

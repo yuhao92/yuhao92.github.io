@@ -15,7 +15,7 @@ My name is Yuhao Jiang (蒋宇豪). I'm a Ph.D. Candidate major in Mechanical En
 Research Interest
 ======
 
-My research interests lie in design, manufacture, modeling, optimization, and control of soft robotic systems. More specifically, I study the curvature and shape change in soft surfaces and implementing these behaviors into novel soft robotic systems so that manufacture, actuation, and control difficulties in traditional soft robotic systems can be consolidated, this will extend the versatility of soft robotic systems in applications such as mobile robots, robotic manipulators, bio-inspired robots, and modular robotic systems.
+My research interests lie in design, manufacture, modeling, optimization, and control of soft robotic systems. More specifically, I study the curvature and shape change in soft surfaces and implementing these behaviors into novel soft robotic systems so that manufacture, actuation, and control difficulties in traditional soft robotic systems can be ameliorated, this will extend the versatility of soft robotic systems in applications such as mobile robots, robotic manipulators, bio-inspired robots, and modular robotic systems.
 
 Publications
 ======

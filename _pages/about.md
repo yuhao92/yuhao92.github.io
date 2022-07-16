@@ -40,9 +40,10 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 - Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric." Proceedings of the ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757)
 
 ## Patents
+
 - “Mechanisms for steering robotic fish” – US Patent No. 11124281B2 – Date of Patent: Sep 21,2019
 
-Academic Services
-======
+## Academic Services
+
 * **Conference Reviewer**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), International Conference on Soft Robotics (Robosoft), ACM Symposium ON Computational Fabrication (SCF)
 * **Journal Reviewer**: Soft Robotics (SoRo), Journal of Field Robotics (JFR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L)

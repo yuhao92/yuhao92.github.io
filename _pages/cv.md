@@ -15,6 +15,7 @@ Education
 * Ph.D in Mechanical Engineering, Arizona State University, 2023 (expected)
 * M.S. in Mechanical Engineering, University of Florida, 2017
 * B.S. in Mechanical Engineering, Donghua University, 2015
+
 Publications
 ======
   <ul>{% for post in site.publications %}

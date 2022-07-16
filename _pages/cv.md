@@ -29,7 +29,7 @@ Talks
 
 Patents
 ======
-“Mechanisms for steering robotic fish” – US Patent No. 11124281B2 – Date of Patent: Sep 21,2019
+* “Mechanisms for steering robotic fish” – US Patent No. 11124281B2 – Date of Patent: Sep 21,2019
 
 Academic Services
 ======

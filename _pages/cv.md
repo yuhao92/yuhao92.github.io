@@ -37,4 +37,4 @@ Academic Services
 ======
 
 * **Conference Reviewer**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), International Conference on Soft Robotics (Robosoft), ACM Symposium on Computational Fabrication (SCF)
-* **Journal Reviewer**: Soft Robotics (SoRo), Journal of Field Robotics (JFR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L)
+* **Journal Reviewer**: Soft Robotics (SoRo), Journal of Field Robotics (JFR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), ASME Journal of Mechanisms and Robotics(JMR).

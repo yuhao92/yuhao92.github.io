@@ -20,15 +20,17 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 Publications
 ======
 
-- **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
+- **Y. Jiang**, F. Chen, and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," Soft Robotics (under review).
 
-- **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
+- **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
+
+- **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
 
 - M. Sharifzadeh, **Y. Jiang**, A. Lafmejani, D. M. Aukes, "Compensating for Material Deformation in Foldable Robots via Deep Learning -- A  Case  Study," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, [https://doi.org/10.1109/ICRA46639.2022.9811752](https://doi.org/10.1109/ICRA46639.2022.9811752).
 
 - M. Sharifzadeh, **Y. Jiang**, A. Lafmejani, K. Nichols, and D. M. Aukes, "Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow," in Bioinspiration & Biomimetics, vol. 16, no. 5, pp. 056017, August 2021, [https://doi.org/10.1088/1748-3190/ac165d](https://doi.org/10.1088/1748-3190/ac165d).
 
-- M. Sharifzadeh, **Y. Jiang** and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3437-3444, April 2021, [https://doi.org/10.1109/LRA.2021.3063961](https://doi.org/10.1109/LRA.2021.3063961).
+- M. Sharifzadeh, **Y. Jiang**, and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3437-3444, April 2021, [https://doi.org/10.1109/LRA.2021.3063961](https://doi.org/10.1109/LRA.2021.3063961).
 
 - Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric." Proceedings of the ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757)
 

@@ -1,1 +1,10 @@
-<embed src="{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="600px" height="700px" />
+---
+layout: archive
+title: "Curriculum vitae"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'>

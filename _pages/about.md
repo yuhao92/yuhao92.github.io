@@ -20,7 +20,7 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 Publications
 ======
 
-- **Y. Jiang**, F. Chen, and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," IEEE Robotics and Automation Letters (under review), pre-print available at: [https://doi.org/10.48550/arxiv.2211.00715](https://doi.org/10.48550/arxiv.2211.00715).
+- **Y. Jiang**, F. Chen, and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," IEEE Robotics and Automation Letters, pre-print available at: [https://doi.org/10.48550/arxiv.2211.00715](https://doi.org/10.48550/arxiv.2211.00715).
 
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
 
@@ -38,6 +38,8 @@ Presentations
 ======
 
 - ICRA 2022 (in person): Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
+
+- ICRA 2022 Poster Presentation (in person): Workshop on Modular Self-reconfigurable Robots: Yuhao Jiang, Paul Bupe, Jr, Nathan Justus, Curtis Sparks, Daniel Aukes, Nick Gravish, Cindy K. Harnett, Ross Hatton, "Modular Robots Using Soft Curved Reconfigurable Anisotropic Mechanisms", May 23, 2022.
 
 - ICRA 2021 (virtual): Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot, [https://youtu.be/EszTDc9slyw](https://youtu.be/EszTDc9slyw).
 

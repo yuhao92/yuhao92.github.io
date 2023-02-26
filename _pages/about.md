@@ -20,7 +20,7 @@ My research interests lie in design, manufacture, modeling, optimization, and co
 Publications
 ======
 
-- **Y. Jiang**, F. Chen and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," in IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 1967-1974, April 2023, doi: 10.1109/LRA.2023.3244716.
+- **Y. Jiang**, F. Chen and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," in IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 1967-1974, April 2023, [https://doi.org/10.1109/LRA.2023.3244716](https://doi.org/10.1109/LRA.2023.3244716).
 
 
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).

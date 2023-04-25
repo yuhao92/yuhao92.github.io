@@ -37,16 +37,19 @@ Publications
 
 Presentations
 ======
+- RoboSoft 2023: Tunable Dynamic Walking via Soft Twisted Beam Vibration.
 
-- ICRA 2022 (in person): Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
+- RoboSoft 2023 Workshop Presentation: Model Order Reduction for Vibrational Soft Twisted Beams Using Pseudo-rigid-body Modeling – A Case Study, [https://youtu.be/7g6SEwEBvhU](https://youtu.be/7g6SEwEBvhU).
 
-- ICRA 2022 Poster Presentation (in person): Workshop on Modular Self-reconfigurable Robots: Yuhao Jiang, Paul Bupe, Jr, Nathan Justus, Curtis Sparks, Daniel Aukes, Nick Gravish, Cindy K. Harnett, Ross Hatton, "Modular Robots Using Soft Curved Reconfigurable Anisotropic Mechanisms", May 23, 2022.
+- ICRA 2022: Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
 
-- ICRA 2021 (virtual): Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot, [https://youtu.be/EszTDc9slyw](https://youtu.be/EszTDc9slyw).
+- ICRA 2022 Workshop Presentation (in person): Workshop on Modular Self-reconfigurable Robots: Yuhao Jiang, Paul Bupe, Jr, Nathan Justus, Curtis Sparks, Daniel Aukes, Nick Gravish, Cindy K. Harnett, Ross Hatton, "Modular Robots Using Soft Curved Reconfigurable Anisotropic Mechanisms", May 23, 2022.
 
-- Robosoft 2021 (virtual): Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots.
+- ICRA 2021: Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot, [https://youtu.be/EszTDc9slyw](https://youtu.be/EszTDc9slyw).
 
-- IROS 2020 (virtual): Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
+- Robosoft 2021: Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots.
+
+- IROS 2020: Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
 
 Patents
 ======

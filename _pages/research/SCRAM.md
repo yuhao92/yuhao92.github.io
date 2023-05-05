@@ -23,7 +23,7 @@ Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
 
 # Buckling Beams
-![](/files/research/buckling_beam_1.png) ![](/files/research/buckling_beam_2.png)
+![](/files/research/buckling_beam_1.png)![](/files/research/buckling_beam_2.png)
 <br/>
 
 A flat, slender, compliant beam shows little resistance towards bending; however, by inducing curvature in it, the resulting curved beam resists bending in the direction opposing its camber (known as opposite sense bending) more than when the beam is bent in the direction of the beam’s camber (equal sense bending). The influence of curvature results in different buckling limits in equal and opposite sense bending as well.

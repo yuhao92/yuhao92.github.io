@@ -4,6 +4,9 @@ main:
   - title: "News"
     url: /news/
 
+  - title: "Research"
+    url: /research/research_list
+
   - title: "Publications"
     url: /publications/
 

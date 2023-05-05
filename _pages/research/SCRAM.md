@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "SCRAMS: Soft, Curved, Reconfigurable, Anisotropic Mechanisms"
+permalink: /research/SCRAM
 author_profile: true
 ---
 ## 2023

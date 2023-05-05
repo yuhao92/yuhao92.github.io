@@ -20,7 +20,7 @@ Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints
 Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints in any radial direction, and then recover their original shape and stiffness once released. Through careful design and material selection, this can result in large changes in stiffness between the original shape, the intended degree of freedom, and orthogonal axes; resulting flexures can then used as passive, compliant rotational joints. Since the manufacturing of these tubes it is compatible with 3D printing processes, its shape can be easily adjusted and reprinted as more is learned about its performance.
 
 ### Related published paper
-- **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, doi: 10.1109/IROS45743.2020.9341109.
+- **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
 
 # Buckling Beams
 ![](/files/research/buckling_beam_1.png)
@@ -34,7 +34,7 @@ The beam stiffness can be tuned through changing the beam length, camber angle, 
 
 ### Related published papers
 
-- M. Sharifzadeh, **Y. Jiang** and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3437-3444, April 2021, doi: 10.1109/LRA.2021.3063961.
+- M. Sharifzadeh, **Y. Jiang**, and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3437-3444, April 2021, [https://doi.org/10.1109/LRA.2021.3063961](https://doi.org/10.1109/LRA.2021.3063961).
 
 # Shape Change Propagation
 ![](/files/research/shape_change.png)
@@ -42,7 +42,7 @@ The beam stiffness can be tuned through changing the beam length, camber angle, 
 Due to the shape change in soft structures, the actuation forces, when transmitting through the structure, can be altered. This interesting behavior enables the robotic systems to achieve an complex, asymmetric locomotion via a simple, symmetric actuation input. This shape propagation concept leverages the mechanics of materials and studies the impact that curvature can have on the ability to transmit shape change between two different surfaces of a soft body in order to simplify the power delivery and control signals required for locomoting soft robotic systems.  In this study, a soft tubular swimming device has been developed which utilizes the proposed shape propagation concept; it is actuated by a soft pneumatic actuator which has been adapted to be co-printed within the tubular geometry and change the tube's curvature when inflated. The proposed device transmits the deformation of a central tube to two connected curved fins to produce an asymmetric paddling stroke in which the anisotropic stiffness of curved surfaces is leveraged to preferentially buckle the system in one direction.
 
 ### Related published paper
-- **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, doi: 10.1109/RoboSoft51838.2021.9479208.
+- **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
 
 # Soft Twisted Beam Vibration
 ![](/files/research/twist_beam.png)

@@ -44,3 +44,11 @@ Due to the shape change in soft structures, the actuation forces, when transmitt
 
 ### Related published paper
 - **Y. Jiang**, M. Sharifzadeh and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, doi: 10.1109/RoboSoft51838.2021.9479208.
+
+## Soft Twisted Beam Vibration
+![](/files/research/twist_beam.png)
+<br/>
+We propose a novel mechanism that propagates vibration through soft twisted beams, taking advantage of dynamically-coupled anisotropic stiffness to simplify the actuation of walking robots. Using dynamic simulation and experimental approaches, we show that the coupled stiffness of twisted beams with terrain contact can be controlled to generate a variety of complex trajectories by changing the frequency of the input signal. This work reveals how ground contact influences the system's dynamic behavior, supporting the design of walking robots inspired by this phenomenon. We also show that the proposed twisted beam produces a tunable walking gait from a single vibrational input.
+
+### Related published paper
+- **Y. Jiang**, F. Chen and D. M. Aukes, “Tunable Dynamic Walking via Soft Twisted Beam Vibration,” in IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 1967-1974, April 2023, [https://doi.org/10.1109/LRA.2023.3244716](https://doi.org/10.1109/LRA.2023.3244716).

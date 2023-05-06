@@ -14,6 +14,6 @@ author_profile: true
 # [Canal Maintenance and Cleaning via Autonomous Fish-Inspired Robots](/research/fish)
 
 ![](/files/research/fish_intro.png)\
-In this project, the goal is to build an AUV that explores the water canals and performs cleaning of these canals as necessary. We have selected the fin propulsion mechanism as the propulsion system for our AUV. Essentially, we are designing and building an underwater robot that will use a fin to move inside water. Our capability of using a laminated robot, will give us more advantage in easily gain the required stiffness in the tail in order to overcome the water drag.\
+**Introduction:** In this project, the goal is to build an AUV that explores the water canals and performs cleaning of these canals as necessary. We have selected the fin propulsion mechanism as the propulsion system for our AUV. Essentially, we are designing and building an underwater robot that will use a fin to move inside water. Our capability of using a laminated robot, will give us more advantage in easily gain the required stiffness in the tail in order to overcome the water drag.\
 **Funding:** Partially provided by SRP.
 

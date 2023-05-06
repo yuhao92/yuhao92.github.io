@@ -36,6 +36,7 @@ The beam stiffness can be tuned through changing the beam length, camber angle, 
 
 ## Shape Change Propagation
 ![](/files/research/shape_change.png)
+![](/files/research/shape_change_2.png)
 <br/>
 Due to the shape change in soft structures, the actuation forces, when transmitting through the structure, can be altered. This interesting behavior enables the robotic systems to achieve an complex, asymmetric locomotion via a simple, symmetric actuation input. This shape propagation concept leverages the mechanics of materials and studies the impact that curvature can have on the ability to transmit shape change between two different surfaces of a soft body in order to simplify the power delivery and control signals required for locomoting soft robotic systems.  In this study, a soft tubular swimming device has been developed which utilizes the proposed shape propagation concept; it is actuated by a soft pneumatic actuator which has been adapted to be co-printed within the tubular geometry and change the tube's curvature when inflated. The proposed device transmits the deformation of a central tube to two connected curved fins to produce an asymmetric paddling stroke in which the anisotropic stiffness of curved surfaces is leveraged to preferentially buckle the system in one direction.
 
@@ -43,7 +44,7 @@ Due to the shape change in soft structures, the actuation forces, when transmitt
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
 
 ## Soft Twisted Beam Vibration
-![](/files/research/twist_beam.png)
+![](/files/research/twist_beam.png)![](/files/research/twist_beam_2.png)
 <br/>
 We propose a novel mechanism that propagates vibration through soft twisted beams, taking advantage of dynamically-coupled anisotropic stiffness to simplify the actuation of walking robots. Using dynamic simulation and experimental approaches, we show that the coupled stiffness of twisted beams with terrain contact can be controlled to generate a variety of complex trajectories by changing the frequency of the input signal. This work reveals how ground contact influences the system's dynamic behavior, supporting the design of walking robots inspired by this phenomenon. We also show that the proposed twisted beam produces a tunable walking gait from a single vibrational input.
 

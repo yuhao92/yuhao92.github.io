@@ -5,7 +5,7 @@ permalink: /research/research_list
 author_profile: true
 ---
 
-# [SCRAMS: Soft, Curved, Reconfigurable, Anisotropic Mechanisms](/research/SCRAM)
+# [SCRAM: Soft, Curved, Reconfigurable, Anisotropic Mechanisms](/research/SCRAM)
 
 <img src="/files/research/SCRAM_intro.png"  height="200">
 

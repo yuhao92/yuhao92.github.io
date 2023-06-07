@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SCRAMS: Soft, Curved, Reconfigurable, Anisotropic Mechanisms"
+title: "SCRAM: Soft, Curved, Reconfigurable, Anisotropic Mechanisms"
 permalink: /research/SCRAM
 author_profile: true
 ---

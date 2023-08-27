@@ -8,10 +8,8 @@ author_profile: true
 * **September 1**: I'll be working as post-doc researcher with [Dr. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en) in [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL.
 
 * **August 2**: I received my Ph.D. degree from in Mechanical Engineering from Arizona State University. 
-    **Dissertation:** Y.Jiang, "Design and Modeling of Soft Curved Reconfigurable Anisotropic Mechanisms", Aug, 2023. 
-
-    **Advisor:** Prof. Daniel Aukes.
-    
+    **Dissertation:** Y.Jiang, "Design and Modeling of Soft Curved Reconfigurable Anisotropic Mechanisms", Aug, 2023.\
+    **Advisor:** Prof. Daniel Aukes.\
     **Committee:** Prof. Spring Berman, Prof. Hyunglae Lee, Prof. Hamidreza Marvi, Prof. Siddharth Srivastava.
 
 

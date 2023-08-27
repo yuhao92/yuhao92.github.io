@@ -9,7 +9,9 @@ author_profile: true
 
 * **August 2**: I received my Ph.D. degree from in Mechanical Engineering from Arizona State University. 
     **Dissertation:** Y.Jiang, "Design and Modeling of Soft Curved Reconfigurable Anisotropic Mechanisms", Aug, 2023. 
+
     **Advisor:** Prof. Daniel Aukes.
+    
     **Committee:** Prof. Spring Berman, Prof. Hyunglae Lee, Prof. Hamidreza Marvi, Prof. Siddharth Srivastava.
 
 

@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 ## 2023
-* **September 1**: I joined [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL working as post-doc researcher with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en).
+* **September 1**: I joined [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/) at EPFL working as post-doc researcher with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en).
 
 * **August 2**: I received my Ph.D. degree from in Mechanical Engineering from Arizona State University.
 > **Dissertation:** Y.Jiang, "Design and Modeling of Soft Curved Reconfigurable Anisotropic Mechanisms", Aug, 2023.\

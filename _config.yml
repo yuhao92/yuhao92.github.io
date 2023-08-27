@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhao Jiang"
 title_separator          : "-"
 name                     : &name "Yuhao Jiang"
-description              : &description "Ph.D. Candidate at Arizona State University"
+description              : &description "Postdoc Researcher at RRL, EPFL"
 url                      : https://duxtx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DuxtX/duxtx.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuhao Jiang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate"
-  location         : "Tempe, AZ"
-  employer         : "Arizona State University"
+  bio              : "Postdoc Researcher"
+  location         : "Lausanne, Switzerland"
+  employer         : "EPFL"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=ao"
-  email            : "yuhao92@asu.edu"
+  email            : "yuhao.jiang@epfl.ch"
   researchgate     : "https://www.researchgate.net/profile/Yuhao-Jiang-8"
   uri              :
   bitbucket        :

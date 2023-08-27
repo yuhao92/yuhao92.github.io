@@ -10,12 +10,9 @@ redirect_from:
 About me
 ======
 
-My name is Yuhao Jiang (蒋宇豪). I'm a Ph.D. Candidate major in Mechanical Engineering at [IDEALab](https://idealab.asu.edu/), Arizona State University, supervised by [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). 
+My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher with [Dr. Jamie Paik]{https://people.epfl.ch/jamie.paik/?lang=en} at [Reconfigurable Robotics Lab (RRL)]{https://www.epfl.ch/labs/rrl/}, EPFL. My research interests lie in design, manufacture, modeling, optimization, and control of soft robotic systems.
 
-Research Interest
-======
-
-My research interests lie in design, manufacture, modeling, optimization, and control of soft robotic systems. More specifically, I study the curvature and shape change in soft surfaces and implementing these behaviors into novel soft robotic systems so that manufacture, actuation, and control difficulties in traditional soft robotic systems can be ameliorated, this will extend the versatility of soft robotic systems in applications such as mobile robots, robotic manipulators, bio-inspired robots, and modular robotic systems.
+I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug.2023 under the supervision of [Dr. Daniel Aukes](https://idealab.asu.edu/people/dan-aukes/). I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida and Donghua University.
 
 Publications
 ======

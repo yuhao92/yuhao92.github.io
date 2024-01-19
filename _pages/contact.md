@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Yuhao Jiang**\
+**Yuhao Jiang, PhD**\
 Postdoc Researcher\
 [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL, Switzerland\
 EPFL STI IGM RRL, MED 11326, Station 9, CH-1015 Lausanne, Switzerland\

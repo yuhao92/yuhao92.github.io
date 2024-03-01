@@ -12,6 +12,9 @@ About me
 
 My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en) at [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of [Prof. Daniel Aukes](https://search.asu.edu/profile/2727366). I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
 
+Research Interest
+======
+
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of soft reconfigurable modular robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methodologies, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced control methodologies for soft robotic systems. Moreover, I actively engage in mentoring students, guiding them through the process of designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for both locomotion and manipulation tasks.
 
 Publications

@@ -28,6 +28,8 @@ Publications
 
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
 
+- P. Bupe, **Y. Jiang**, J. Lin, T. Nguyen, M. Han, D. Aukes, C. Harnett, "Embedded Optical Waveguide Sensors for Dynamic Behavior Monitoring in Twisted-Beam Structures," 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), San Diego, CA, USA, 2024, pp. 139-144, [https://doi.org/10.1109/RoboSoft60065.2024.10521938](https://doi.org/10.1109/RoboSoft60065.2024.10521938).
+
 - M. Sharifzadeh, **Y. Jiang**, A. Lafmejani, D. M. Aukes, "Compensating for Material Deformation in Foldable Robots via Deep Learning -- A  Case  Study," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, [https://doi.org/10.1109/ICRA46639.2022.9811752](https://doi.org/10.1109/ICRA46639.2022.9811752).
 
 - M. Sharifzadeh, **Y. Jiang**, A. Lafmejani, K. Nichols, and D. M. Aukes, "Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow," in Bioinspiration & Biomimetics, vol. 16, no. 5, pp. 056017, August 2021, [https://doi.org/10.1088/1748-3190/ac165d](https://doi.org/10.1088/1748-3190/ac165d).
@@ -55,7 +57,11 @@ Presentations
 Patents
 ======
 
-- “Mechanisms for steering robotic fish” – US Patent No. 11124281B2 – Date of Patent: Sep 21,2019
+- "Pinched tubes for reconfigurable robots”, Daniel Aukes, Mohammad Sharifzadeh, **Yuhao Jiang**, Nicholas Gravish, Mingsong Jiang - US Patent US20230127106A1
+ 
+- “Buckling beams for underwater and terrestrial autonomous vehicles”, D Aukes, M Sharifzadeh, **Y Jiang** - US Patent US20230121727A1
+
+- “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2
 
 Academic Services
 ======

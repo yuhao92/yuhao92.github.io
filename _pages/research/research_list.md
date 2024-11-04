@@ -10,7 +10,7 @@ author_profile: true
 <img src="/files/research/CPG_1.png"  width="80%">
 
 **Introduction:** I introduced a novel surface-based multi-module robotic manipulation framework that utilizes a Central Pattern Generator (CPG)-based motion generator, combined with a simulation-based optimization method to determine the optimal manipulation parameters for a multi-module origami robotic surface (Ori-Pixel). This approach allows for the manipulation of objects ranging from centimeters to meters in size, with varying stiffness and shape. The optimized CPG parameters are tested through both dynamic simulations and a series of prototype experiments involving a wide range of objects differing in size, weight, shape, and material, demonstrating robust manipulation capabilities.\
-**Funding:** <img src="/files/research/eu-flag.png" width="8%"> European Union's Horizon Europe Research and Innovation Programme under grant No. 101069536 [link](https://mozart-robotics.eu/)
+**Funding:** <img src="/files/research/eu-flag.png" width="8%"> EU's Horizon Europe Research and Innovation Programme under grant No. 101069536 [link](https://mozart-robotics.eu/)
 
 # [SCRAM: Soft, Curved, Reconfigurable, Anisotropic Mechanisms](/research/SCRAM)
 
@@ -24,5 +24,5 @@ author_profile: true
 <img src="/files/research/fish_intro.png"  width="80%">
 
 **Introduction:** In this project, the goal is to build an AUV that explores the water canals and performs cleaning of these canals as necessary. We have selected the fin propulsion mechanism as the propulsion system for our AUV. Essentially, we are designing and building an underwater robot that will use a fin to move inside water. Our capability of using a laminated robot, will give us more advantage in easily gain the required stiffness in the tail in order to overcome the water drag.\
-**Funding:** <img src="/files/research/srp.png" width="8%"> SRP.
+**Funding:** <img src="/files/research/srp.png" width="12%"> Salt River Project.
 

@@ -15,3 +15,6 @@ The key contribution of this work involves finding strategies that leverage onli
 
 ### Related published paper
 - M. Sharifzadeh, **Y. Jiang**, A. Lafmejani, K. Nichols, and D. M. Aukes, "Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow," in Bioinspiration & Biomimetics, vol. 16, no. 5, pp. 056017, August 2021, [https://doi.org/10.1088/1748-3190/ac165d](https://doi.org/10.1088/1748-3190/ac165d).
+
+
+<center><img src="/files/research/srp.png" width="20%"></center>

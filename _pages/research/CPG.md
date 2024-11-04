@@ -17,3 +17,5 @@ Robotic manipulators often face challenges in handling objects of different size
 
 ### Related published paper
 - **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-based Manipulation with Multi-Module Origami Robot Surface,” under review, October 2024
+
+<center><img src="/files/research/eu-flag.png" width="20%"></center>

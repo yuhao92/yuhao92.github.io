@@ -7,7 +7,7 @@ author_profile: true
 
 # [CPG-Based Manipulation with Multi-Module Origami Robot Surface](/research/CPG)
 
-<img src="/files/research/CPG_1.png"  height="200">
+<img src="/files/research/CPG_1.png"  height="400">
 
 **Introduction:** I introduced a novel surface-based multi-module robotic manipulation framework that utilizes a Central Pattern Generator (CPG)-based motion generator, combined with a simulation-based optimization method to determine the optimal manipulation parameters for a multi-module origami robotic surface (Ori-Pixel). This approach allows for the manipulation of objects ranging from centimeters to meters in size, with varying stiffness and shape. The optimized CPG parameters are tested through both dynamic simulations and a series of prototype experiments involving a wide range of objects differing in size, weight, shape, and material, demonstrating robust manipulation capabilities.\
 **Funding:** European Union's Horizon Europe Research and Innovation Programme under grant No. 101069536 [link](https://mozart-robotics.eu/)

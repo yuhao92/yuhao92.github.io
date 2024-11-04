@@ -24,5 +24,5 @@ author_profile: true
 <img src="/files/research/fish_intro.png"  width="80%">
 
 **Introduction:** In this project, the goal is to build an AUV that explores the water canals and performs cleaning of these canals as necessary. We have selected the fin propulsion mechanism as the propulsion system for our AUV. Essentially, we are designing and building an underwater robot that will use a fin to move inside water. Our capability of using a laminated robot, will give us more advantage in easily gain the required stiffness in the tail in order to overcome the water drag.\
-**Funding:** <img src="/files/research/srp.png" width="12%"> Salt River Project.
+**Funding:** <img src="/files/research/srp.png" width="10%"> Salt River Project.
 

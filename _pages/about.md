@@ -39,6 +39,15 @@ Publications
 
 - Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric." Proceedings of the ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757)
 
+Patents
+======
+
+- "Pinched tubes for reconfigurable robots”, Daniel Aukes, Mohammad Sharifzadeh, **Yuhao Jiang**, Nicholas Gravish, Mingsong Jiang - US Patent US20230127106A1
+ 
+- “Buckling beams for underwater and terrestrial autonomous vehicles”, D Aukes, M Sharifzadeh, **Y Jiang** - US Patent US20230121727A1
+
+- “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2
+
 Presentations
 ======
 - RoboSoft 2023: Tunable Dynamic Walking via Soft Twisted Beam Vibration.
@@ -54,15 +63,6 @@ Presentations
 - Robosoft 2021: Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots.
 
 - IROS 2020: Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
-
-Patents
-======
-
-- "Pinched tubes for reconfigurable robots”, Daniel Aukes, Mohammad Sharifzadeh, **Yuhao Jiang**, Nicholas Gravish, Mingsong Jiang - US Patent US20230127106A1
- 
-- “Buckling beams for underwater and terrestrial autonomous vehicles”, D Aukes, M Sharifzadeh, **Y Jiang** - US Patent US20230121727A1
-
-- “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2
 
 Academic Services
 ======

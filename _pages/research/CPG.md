@@ -13,7 +13,9 @@ Robotic manipulators often face challenges in handling objects of different size
 ## Demo Video
 <div class="video-container">
     <iframe 
-        src="https://www.youtube.com/embed/7FCek7s1nA0" 
+        src="https://www.youtube.com/embed/7FCek7s1nA0?vq=hd1080"
+        width="1920"
+        height="1080"
         frameborder="0" 
         allowfullscreen
         loading="lazy">

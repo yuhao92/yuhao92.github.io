@@ -8,4 +8,14 @@ date: 2023-04-03
 location: "Singapore"
 ---
 
-Youtube Link: [https://youtu.be/7g6SEwEBvhU](https://youtu.be/7g6SEwEBvhU)
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/7g6SEwEBvhU?vq=hd1080"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+

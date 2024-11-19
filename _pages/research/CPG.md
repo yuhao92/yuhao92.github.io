@@ -11,6 +11,16 @@ Robotic manipulators often face challenges in handling objects of different size
 
 <img src="/files/research/CPG_2.png" width="100%">
 
+## Demo Video
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/7FCek7s1nA0" 
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 ## Contributions:
 - It marks the first implementation of Central Pattern Generator (CPG) methodology for manipulation tasks using multi-module robotic systems; 
 - A novel data-driven optimization framework is proposed with dynamic simulations to efficiently identify optimal CPG parameters within a complex, high-dimensional space.

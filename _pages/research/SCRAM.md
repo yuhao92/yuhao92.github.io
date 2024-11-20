@@ -55,6 +55,19 @@ The beam stiffness can be tuned through changing the beam length, camber angle, 
 <br/>
 Due to the shape change in soft structures, the actuation forces, when transmitting through the structure, can be altered. This interesting behavior enables the robotic systems to achieve an complex, asymmetric locomotion via a simple, symmetric actuation input. This shape propagation concept leverages the mechanics of materials and studies the impact that curvature can have on the ability to transmit shape change between two different surfaces of a soft body in order to simplify the power delivery and control signals required for locomoting soft robotic systems.  In this study, a soft tubular swimming device has been developed which utilizes the proposed shape propagation concept; it is actuated by a soft pneumatic actuator which has been adapted to be co-printed within the tubular geometry and change the tube's curvature when inflated. The proposed device transmits the deformation of a central tube to two connected curved fins to produce an asymmetric paddling stroke in which the anisotropic stiffness of curved surfaces is leveraged to preferentially buckle the system in one direction.
 
+
+## Demo Video
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/guLw-RXqgzE?vq=hd1080"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 ### Related published paper
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots," 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 2021, pp. 230-237, [https://doi.org/10.1109/RoboSoft51838.2021.9479208](https://doi.org/10.1109/RoboSoft51838.2021.9479208).
 

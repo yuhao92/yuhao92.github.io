@@ -53,6 +53,17 @@ We propose a novel mechanism that propagates vibration through soft twisted beam
 <img src="/files/research/twist_beam.png"  height="100">
 ![](/files/research/twist_beam_2.png)
 
+## Demo Video
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/HpvOvaIC1Z4?vq=hd1080"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
 
 ### Related published paper
 - **Y. Jiang**, F. Chen and D. M. Aukes, “Tunable Dynamic Walking via Soft Twisted Beam Vibration,” in IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 1967-1974, April 2023, [https://doi.org/10.1109/LRA.2023.3244716](https://doi.org/10.1109/LRA.2023.3244716).

@@ -22,7 +22,7 @@ Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints
 <br/>
 Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints in any radial direction, and then recover their original shape and stiffness once released. Through careful design and material selection, this can result in large changes in stiffness between the original shape, the intended degree of freedom, and orthogonal axes; resulting flexures can then used as passive, compliant rotational joints. Since the manufacturing of these tubes it is compatible with 3D printing processes, its shape can be easily adjusted and reprinted as more is learned about its performance.
 
-## Demo Video
+### Demo Video
 <div class="video-container">
     <iframe 
         src="https://www.youtube.com/embed/RCDwln3kNf4?vq=hd1080"
@@ -45,7 +45,7 @@ A flat, slender, compliant beam shows little resistance towards bending; however
 
 The beam stiffness can be tuned through changing the beam length, camber angle, and width. By careful consideration during mechanical design, the preferential buckling of curved beams can be used to passively produce positive net work and moments even during symmetric inputs; this reduces the complexity of the control problem.
 
-## Demo Video
+### Demo Video
 <div class="video-container">
     <iframe 
         src="https://www.youtube.com/embed/EszTDc9slyw?vq=hd1080"
@@ -68,7 +68,7 @@ The beam stiffness can be tuned through changing the beam length, camber angle, 
 Due to the shape change in soft structures, the actuation forces, when transmitting through the structure, can be altered. This interesting behavior enables the robotic systems to achieve an complex, asymmetric locomotion via a simple, symmetric actuation input. This shape propagation concept leverages the mechanics of materials and studies the impact that curvature can have on the ability to transmit shape change between two different surfaces of a soft body in order to simplify the power delivery and control signals required for locomoting soft robotic systems.  In this study, a soft tubular swimming device has been developed which utilizes the proposed shape propagation concept; it is actuated by a soft pneumatic actuator which has been adapted to be co-printed within the tubular geometry and change the tube's curvature when inflated. The proposed device transmits the deformation of a central tube to two connected curved fins to produce an asymmetric paddling stroke in which the anisotropic stiffness of curved surfaces is leveraged to preferentially buckle the system in one direction.
 
 
-## Demo Video
+### Demo Video
 <div class="video-container">
     <iframe 
         src="https://www.youtube.com/embed/guLw-RXqgzE?vq=hd1080"
@@ -90,7 +90,7 @@ We propose a novel mechanism that propagates vibration through soft twisted beam
 <img src="/files/research/twist_beam.png"  height="100">
 ![](/files/research/twist_beam_2.png)
 
-## Demo Video
+### Demo Video
 <div class="video-container">
     <iframe 
         src="https://www.youtube.com/embed/HpvOvaIC1Z4?vq=hd1080"

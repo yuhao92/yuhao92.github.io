@@ -22,6 +22,18 @@ Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints
 <br/>
 Thin-walled cylindrical tubes can be pinched to create compliant, virtual joints in any radial direction, and then recover their original shape and stiffness once released. Through careful design and material selection, this can result in large changes in stiffness between the original shape, the intended degree of freedom, and orthogonal axes; resulting flexures can then used as passive, compliant rotational joints. Since the manufacturing of these tubes it is compatible with 3D printing processes, its shape can be easily adjusted and reprinted as more is learned about its performance.
 
+## Demo Video
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/RCDwln3kNf4?vq=hd1080"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 ### Related published paper
 - **Y. Jiang**, M. Sharifzadeh, and D. M. Aukes, "Reconfigurable Soft Flexure Hinges via Pinched Tubes," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8843-8850, [https://doi.org/10.1109/IROS45743.2020.9341109](https://doi.org/10.1109/IROS45743.2020.9341109).
 

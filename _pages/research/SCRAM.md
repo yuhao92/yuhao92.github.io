@@ -45,6 +45,18 @@ A flat, slender, compliant beam shows little resistance towards bending; however
 
 The beam stiffness can be tuned through changing the beam length, camber angle, and width. By careful consideration during mechanical design, the preferential buckling of curved beams can be used to passively produce positive net work and moments even during symmetric inputs; this reduces the complexity of the control problem.
 
+## Demo Video
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/EszTDc9slyw?vq=hd1080"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 ### Related published papers
 
 - M. Sharifzadeh, **Y. Jiang**, and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3437-3444, April 2021, [https://doi.org/10.1109/LRA.2021.3063961](https://doi.org/10.1109/LRA.2021.3063961).

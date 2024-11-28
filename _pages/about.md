@@ -23,7 +23,7 @@ Publications
 
 - **Y. Jiang**, F. Chen, J. Paik, and D. M. Aukes, "Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped," submitted, June 2024.
 
-- X. Zheng, **Y. Jiang**, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik, "Metamaterial Robotics," submitted, July 2024.
+- X. Zheng, **Y. Jiang**, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik, "Metamaterial Robotics," submitted, November 2024.
 
 - **Y. Jiang**, F. Chen and D. M. Aukes, "Tunable Dynamic Walking via Soft Twisted Beam Vibration," IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 1967-1974, April 2023, [https://doi.org/10.1109/LRA.2023.3244716](https://doi.org/10.1109/LRA.2023.3244716).
 

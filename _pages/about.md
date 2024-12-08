@@ -44,7 +44,7 @@ Publications
 Patents
 ======
 
-- "Tunable Motion Using Flexible Twisted Beams", Daniel Aukes, **Yuhao Jiang**, Fuchen Chen - US Patent Patent Application 20240391542
+- "Tunable Motion Using Flexible Twisted Beams", Daniel Aukes, **Yuhao Jiang**, Fuchen Chen - US Patent Application 20240391542
 
 - "Pinched tubes for reconfigurable robots”, Daniel Aukes, Mohammad Sharifzadeh, **Yuhao Jiang**, Nicholas Gravish, Mingsong Jiang - US Patent US20230127106A1
  

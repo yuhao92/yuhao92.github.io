@@ -15,7 +15,7 @@ My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with [Prof.
 Research Interest
 ======
 
-My research advances robotics through innovative soft, modular, and reconfigurable systems. I propose three interconnected thrusts: compliant mechanisms for soft robots, dynamic modeling with data-driven optimization for modular systems, and learning-based control for distributed reconfigurable robots. This integrated approach tackles the complexity-performance trade-off while enhancing adaptability in complex environments and human collaboration. Applications span space exploration to human-assistive technologies, emphasizing practical feasibility through novel mechanisms and learning-based controls. I aim to create sustainable impact in robotics through interdisciplinary collaborations and diverse funding opportunities. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
+I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
 Publications
 ======

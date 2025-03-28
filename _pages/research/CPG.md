@@ -27,6 +27,6 @@ Robotic manipulators often face challenges in handling objects of different size
 - A novel data-driven optimization framework is proposed with dynamic simulations to efficiently identify optimal CPG parameters within a complex, high-dimensional space.
 
 ### Related published paper
-- **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-based Manipulation with Multi-Module Origami Robot Surface,” under review, October 2024
+- **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-Based Manipulation with Multi-Module Origami Robot Surface,” *IEEE Robotics and Automation Letters*, March 2025, doi: [10.1109/LRA.2025.3555381](https://doi.org/10.1109/LRA.2025.3555381).
 
 <center><img src="/files/research/eu-flag.png" width="15%"></center>

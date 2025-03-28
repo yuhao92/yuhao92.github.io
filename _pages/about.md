@@ -19,7 +19,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 Publications
 ======
-- **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-based Manipulation with Multi-Module Origami Robot Surface,” submitted, October 2024
+- **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-Based Manipulation with Multi-Module Origami Robot Surface,” *IEEE Robotics and Automation Letters*, March 2025, doi: [10.1109/LRA.2025.3555381](https://doi.org/10.1109/LRA.2025.3555381).
 
 - **Y. Jiang**, F. Chen, J. Paik, and D. M. Aukes, "Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped," submitted, June 2024.
 

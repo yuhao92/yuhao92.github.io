@@ -138,7 +138,7 @@ Selected Projects
     ></video>
     <div class="project-title">Bio-inspired Design for Robotic Swimming</div>
     <div class="project-desc">
-    TBD
+    This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
     </div>
   </div>
   <div class="project-col">

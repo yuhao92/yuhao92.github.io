@@ -18,96 +18,114 @@ Research Interest
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
 <style>
-.project-stack {
-  margin-bottom: 2.5rem;
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.project-col {
+  flex: 1 1 340px;
+  max-width: 500px;
+  min-width: 260px;
   background: #f8f8f8;
-  border-radius: 0;
-  box-shadow: none;
   padding: 0 0 1.5rem 0;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
   overflow: hidden;
 }
-
-.project-stack video {
-  display: block;
+.project-col video {
   width: 100%;
-  max-width: 100%;
   height: auto;
   border: none;
   border-radius: 0;
   box-shadow: none;
   margin: 0;
-  background: #000; /* fallback background */
+  background: #000;
+  display: block;
+}
+.project-title {
+  margin: 0;
+  padding: 1.2rem 1rem 0.5rem 1rem;
+  font-size: 1.13em;
+  font-weight: 600;
+  text-align: left;
+}
+.project-desc {
+  padding: 0 1rem 0 1rem;
 }
 
-.project-stack .project-desc {
-  padding: 1.2rem 1rem 0 1rem;
+/* Responsive layout for mobile: stack columns */
+@media (max-width: 900px) {
+  .projects-grid {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .project-col {
+    max-width: 100%;
+  }
 }
 </style>
 
 Selected Projects
 =================
 
-<div class="project-stack">
-  <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
-  <video
-    src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
-    autoplay
-    muted
-    loop
-    playsinline
-  ></video>
-  <div class="project-desc">
-    <p>
+<div class="projects-grid">
+  <div class="project-col">
+    <video
+      src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
+    <div class="project-desc">
       This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
-    </p>
+    </div>
   </div>
-</div>
-
-<div class="project-stack">
-  <div class="project-title">Soft Twisted Beam Quadruped</div>
-  <video
-    src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
-    autoplay
-    muted
-    loop
-    playsinline
-  ></video>
-  <div class="project-desc">
-    <p>
+  <div class="project-col">
+    <video
+      src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Soft Twisted Beam Quadruped</div>
+    <div class="project-desc">
       Locomotion of a soft, twisted-beam quadruped robot driven by vibration and compliant mechanisms.
-    </p>
+    </div>
   </div>
-</div>
-
-<div class="project-stack">
-  <div class="project-title">Origami Modular Robot Surface</div>
-  <video
-    src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
-    autoplay
-    muted
-    loop
-    playsinline
-  ></video>
-  <div class="project-desc">
-    <p>
+  <div class="project-col">
+    <video
+      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Origami Modular Robot Surface</div>
+    <div class="project-desc">
       CPG-based manipulation with a multi-module origami robot surface, enabling adaptive and programmable surface morphing for advanced robotic applications.
-    </p>
+    </div>
   </div>
-</div>
-
-<div class="project-stack">
-  <div class="project-title">Metamaterial Robotics</div>
-  <video
-    src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
-    autoplay
-    muted
-    loop
-    playsinline
-  ></video>
-  <div class="project-desc">
-    <p>
+  <div class="project-col">
+    <video
+      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Metamaterial Robotics</div>
+    <div class="project-desc">
       Exploration of metamaterial-based robotics, demonstrating programmable mechanical properties and novel actuation strategies for next-generation soft robots.
-    </p>
+    </div>
   </div>
 </div>
 

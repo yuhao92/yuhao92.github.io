@@ -164,7 +164,7 @@ Selected Projects
     ></video>
     <div class="project-title">Reconfigurable Curved Beams for Robotic Swimming</div>
     <div class="project-desc">
-    TBD
+    This project explores how the stiffness and buckling behavior of curved beams can be tuned through changes in length, camber angle, and width. By leveraging the natural tendency of curved beams to preferentially buckle in specific directions, the design enables passive generation of net work and moments from simple, symmetric inputs—reducing the need for complex control in soft robotic systems.
     </div>
   </div>
   <div class="project-col">
@@ -190,7 +190,7 @@ Selected Projects
     ></video>
     <div class="project-title">Reconfigurable Soft Hinges via Pinched Tubes</div>
     <div class="project-desc">
-    TBD
+    This project introduces reconfigurable soft joints created by pinching thin-walled cylindrical tubes. These "virtual hinges" offer tunable compliance and can recover their original shape and stiffness when released. By leveraging 3D printing for rapid prototyping, the design enables easy adjustment of tube geometry and stiffness, allowing for customizable, passive rotational joints in soft robotic systems.
     </div>
   </div>
 </div>

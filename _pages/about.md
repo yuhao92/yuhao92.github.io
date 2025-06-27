@@ -142,7 +142,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/assets/videos/shape_propogation_reduced.mp4' | relative_url }}"
+      src="{{ '/files/viseos/shape_propogation_reduced.mp4' | relative_url }}"
       autoplay
       muted
       loop
@@ -156,7 +156,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+      src="{{ '/files/viseos/metamaterial_robotics.mp4' | relative_url }}"
       autoplay
       muted
       loop
@@ -169,7 +169,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+      src="{{ '/files/viseos/origami_modular.mp4' | relative_url }}"
       autoplay
       muted
       loop
@@ -182,7 +182,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+      src="{{ '/files/viseos/metamaterial_robotics.mp4' | relative_url }}"
       autoplay
       muted
       loop

@@ -17,6 +17,102 @@ Research Interest
 
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
+Selected Projects
+=================
+
+<style>
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+.project-col {
+  flex: 1 1 300px;
+  max-width: 400px;
+  min-width: 250px;
+  background: #f8f8f8;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (max-width: 900px) {
+  .projects-grid {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .project-col {
+    max-width: 100%;
+  }
+}
+</style>
+
+<div class="projects-grid">
+  <div class="project-col">
+    <h3>Soft Twisted Beam Vibration for Robotic Walking</h3>
+    <video
+      src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+      style="width:100%;border-radius:10px;max-width:350px;"
+    ></video>
+    <p>
+      This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
+    </p>
+  </div>
+  <div class="project-col">
+    <h3>Soft Twisted Beam Quadruped</h3>
+    <video
+      src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+      style="width:100%;border-radius:10px;max-width:350px;"
+    ></video>
+    <p>
+      Locomotion of a soft, twisted-beam quadruped robot driven by vibration and compliant mechanisms.
+    </p>
+  </div>
+</div>
+
+<div class="projects-grid">
+  <div class="project-col">
+    <h3>Origami Modular Robot Surface</h3>
+    <video
+      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+      style="width:100%;border-radius:10px;max-width:350px;"
+    ></video>
+    <p>
+      CPG-based manipulation with a multi-module origami robot surface, enabling adaptive and programmable surface morphing for advanced robotic applications.
+    </p>
+  </div>
+  <div class="project-col">
+    <h3>Metamaterial Robotics</h3>
+    <video
+      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+      style="width:100%;border-radius:10px;max-width:350px;"
+    ></video>
+    <p>
+      Exploration of metamaterial-based robotics, demonstrating programmable mechanical properties and novel actuation strategies for next-generation soft robots.
+    </p>
+  </div>
+</div>
+
 Publications
 ======
 - **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-Based Manipulation with Multi-Module Origami Robot Surface,” *IEEE Robotics and Automation Letters*, March 2025, doi: [10.1109/LRA.2025.3555381](https://doi.org/10.1109/LRA.2025.3555381).

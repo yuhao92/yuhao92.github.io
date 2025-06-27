@@ -142,7 +142,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+      src="{{ '/assets/videos/shape_propogation_reduced.mp4' | relative_url }}"
       autoplay
       muted
       loop
@@ -151,7 +151,7 @@ Selected Projects
     <div class="project-title">Shape Change Propagation for Robotic Swimming
 </div>
     <div class="project-desc">
-    TBD
+    This project introduces a soft tubular swimming robot that leverages shape propagation—a concept where actuation forces are transformed by the robot's changing shape. By transmitting deformation from a central soft pneumatic actuator to curved fins, the device produces complex, asymmetric swimming strokes from simple, symmetric inputs. This approach simplifies control and power delivery while utilizing the mechanics of curved soft materials for effective locomotion.
     </div>
   </div>
   <div class="project-col">

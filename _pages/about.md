@@ -18,72 +18,43 @@ Research Interest
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
 <style>
-.project-row {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 2rem;
+.project-stack {
   margin-bottom: 2.5rem;
   background: #f8f8f8;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
-  padding: 1.2rem;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0 0 1.5rem 0;
+  overflow: hidden;
 }
 
-.project-video {
-  flex: 2 1 0%;
-  min-width: 220px;
-  max-width: 66%;
-  display: flex;
-  justify-content: center;
-}
-
-.project-video video {
+.project-stack video {
+  display: block;
   width: 100%;
-  max-width: 500px;
-  border-radius: 10px;
-  background: #222;
+  max-width: 100%;
+  height: auto;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
+  background: #000; /* fallback background */
 }
 
-.project-desc {
-  flex: 1 1 0%;
-  min-width: 180px;
-  max-width: 34%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-@media (max-width: 900px) {
-  .project-row {
-    flex-direction: column;
-    padding: 1rem;
-    gap: 1.2rem;
-  }
-  .project-video, .project-desc {
-    max-width: 100%;
-    min-width: 0;
-    padding-left: 0;
-    padding-right: 0;
-  }
+.project-stack .project-desc {
+  padding: 1.2rem 1rem 0 1rem;
 }
 </style>
 
 Selected Projects
 =================
 
-<div class="project-row">
-  <div class="project-video">
-    <video
-      src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
-      autoplay
-      muted
-      loop
-      playsinline
-    ></video>
-  </div>
+<div class="project-stack">
+  <video
+    src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
+    autoplay
+    muted
+    loop
+    playsinline
+  ></video>
   <div class="project-desc">
     <h3>Soft Twisted Beam Vibration for Robotic Walking</h3>
     <p>
@@ -92,16 +63,14 @@ Selected Projects
   </div>
 </div>
 
-<div class="project-row">
-  <div class="project-video">
-    <video
-      src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
-      autoplay
-      muted
-      loop
-      playsinline
-    ></video>
-  </div>
+<div class="project-stack">
+  <video
+    src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
+    autoplay
+    muted
+    loop
+    playsinline
+  ></video>
   <div class="project-desc">
     <h3>Soft Twisted Beam Quadruped</h3>
     <p>
@@ -110,16 +79,14 @@ Selected Projects
   </div>
 </div>
 
-<div class="project-row">
-  <div class="project-video">
-    <video
-      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
-      autoplay
-      muted
-      loop
-      playsinline
-    ></video>
-  </div>
+<div class="project-stack">
+  <video
+    src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+    autoplay
+    muted
+    loop
+    playsinline
+  ></video>
   <div class="project-desc">
     <h3>Origami Modular Robot Surface</h3>
     <p>
@@ -128,16 +95,14 @@ Selected Projects
   </div>
 </div>
 
-<div class="project-row">
-  <div class="project-video">
-    <video
-      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
-      autoplay
-      muted
-      loop
-      playsinline
-    ></video>
-  </div>
+<div class="project-stack">
+  <video
+    src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+    autoplay
+    muted
+    loop
+    playsinline
+  ></video>
   <div class="project-desc">
     <h3>Metamaterial Robotics</h3>
     <p>

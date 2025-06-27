@@ -48,6 +48,7 @@ Selected Projects
 =================
 
 <div class="project-stack">
+  <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
   <video
     src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
     autoplay
@@ -56,7 +57,6 @@ Selected Projects
     playsinline
   ></video>
   <div class="project-desc">
-    <h3>Soft Twisted Beam Vibration for Robotic Walking</h3>
     <p>
       This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
     </p>
@@ -64,6 +64,7 @@ Selected Projects
 </div>
 
 <div class="project-stack">
+  <div class="project-title">Soft Twisted Beam Quadruped</div>
   <video
     src="{{ '/assets/videos/soft_twisted_quadruped.mp4' | relative_url }}"
     autoplay
@@ -72,7 +73,6 @@ Selected Projects
     playsinline
   ></video>
   <div class="project-desc">
-    <h3>Soft Twisted Beam Quadruped</h3>
     <p>
       Locomotion of a soft, twisted-beam quadruped robot driven by vibration and compliant mechanisms.
     </p>
@@ -80,6 +80,7 @@ Selected Projects
 </div>
 
 <div class="project-stack">
+  <div class="project-title">Origami Modular Robot Surface</div>
   <video
     src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
     autoplay
@@ -88,7 +89,6 @@ Selected Projects
     playsinline
   ></video>
   <div class="project-desc">
-    <h3>Origami Modular Robot Surface</h3>
     <p>
       CPG-based manipulation with a multi-module origami robot surface, enabling adaptive and programmable surface morphing for advanced robotic applications.
     </p>
@@ -96,6 +96,7 @@ Selected Projects
 </div>
 
 <div class="project-stack">
+  <div class="project-title">Metamaterial Robotics</div>
   <video
     src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
     autoplay
@@ -104,7 +105,6 @@ Selected Projects
     playsinline
   ></video>
   <div class="project-desc">
-    <h3>Metamaterial Robotics</h3>
     <p>
       Exploration of metamaterial-based robotics, demonstrating programmable mechanical properties and novel actuation strategies for next-generation soft robots.
     </p>

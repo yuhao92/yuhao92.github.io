@@ -85,7 +85,7 @@ Selected Projects
     ></video>
     <div class="project-title">CPG-Based Multi-Module Robotic Manipulation</div>
     <div class="project-desc">
-      This work marks the first application of the Central Pattern Generator (CPG) method to manipulation tasks in multi-module robotic systems. A novel data-driven optimization framework, integrated with dynamic simulations, efficiently identifies optimal CPG parameters in complex, high-dimensional spaces. This enables robust manipulation of objects with diverse sizes, shapes, and materials, as demonstrated through simulations and prototype experiments.
+      This project marks the first application of the Central Pattern Generator (CPG) method to manipulation tasks in multi-module robotic systems. A novel data-driven optimization framework, integrated with dynamic simulations, efficiently identifies optimal CPG parameters in complex, high-dimensional spaces. This enables robust manipulation of objects with diverse sizes, shapes, and materials, as demonstrated through simulations and prototype experiments.
     </div>
   </div>
   <div class="project-col">
@@ -98,7 +98,7 @@ Selected Projects
     ></video>
     <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
     <div class="project-desc">
-      This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
+      This project introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
     </div>
   </div>
   <div class="project-col">

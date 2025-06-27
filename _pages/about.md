@@ -98,7 +98,7 @@ Selected Projects
     ></video>
     <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
     <div class="project-desc">
-      This project investigates a novel, underactuated soft twisted beam structure that leverages structural intelligence to achieve effective locomotion. When actuated by a simple 2D vibrational force, the structure generates complex 3D motions. The study first examines the dynamic behavior of a single twisted beam, then integrates these beams into a quadrupedal robot. By exploiting the inherent structural intelligence, the robot demonstrates three distinct and versatile locomotion modes—all achieved with minimal actuation.
+      This project investigates a novel, underactuated soft twisted beam structure that leverages structural intelligence to achieve effective locomotion. When actuated by a simple 2D vibrational force, the structure generates complex 3D motions. The study first examines the dynamic behavior of a single twisted beam, and then integrates these beams into a quadrupedal robot, Flix_Walker, which demonstrates three distinct and versatile locomotion modes, all achieved with minimal actuation.
     </div>
   </div>
   <div class="project-col">

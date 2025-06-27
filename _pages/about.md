@@ -25,6 +25,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   justify-content: center;
   margin-bottom: 2rem;
 }
+
 .project-col {
   flex: 1 1 340px;
   max-width: 500px;
@@ -38,6 +39,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   align-items: stretch;
   overflow: hidden;
 }
+
 .project-col video {
   width: 100%;
   height: auto;
@@ -48,6 +50,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   background: #000;
   display: block;
 }
+
 .project-title {
   margin: 0;
   padding: 1.2rem 1rem 0.5rem 1rem;
@@ -55,8 +58,18 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   font-weight: 600;
   text-align: left;
 }
+
 .project-desc {
   padding: 0 1rem 0 1rem;
+  font-size: 1em;
+  color: #222;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  /* Ensures the description grows as needed */
+  flex-grow: 1;
+  /* Prevents overflow hidden on small screens */
+  max-height: none;
+  overflow: visible;
 }
 
 /* Responsive layout for mobile: stack columns */
@@ -67,6 +80,32 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   }
   .project-col {
     max-width: 100%;
+    min-width: 0;
+    width: 100%;
+    padding-bottom: 1.2rem;
+  }
+  .project-title, .project-desc {
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+  }
+  .project-desc {
+    font-size: 0.98em;
+    /* If you have super long descriptions, you can limit height and allow scroll: */
+    /* max-height: 8em; overflow-y: auto; */
+  }
+}
+
+/* For extra small screens */
+@media (max-width: 540px) {
+  .project-title, .project-desc {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  .project-title {
+    font-size: 1em;
+  }
+  .project-desc {
+    font-size: 0.95em;
   }
 }
 </style>

@@ -112,7 +112,7 @@ Selected Projects
     <div class="project-title">Shape Change Propagation for Robotic Swimming
 </div>
     <div class="project-desc">
-
+    TBD
     </div>
   </div>
   <div class="project-col">
@@ -125,7 +125,7 @@ Selected Projects
     ></video>
     <div class="project-title">Reconfigurable Curved Beams for Robotic Swimming</div>
     <div class="project-desc">
-
+    TBD
     </div>
   </div>
   <div class="project-col">
@@ -138,7 +138,7 @@ Selected Projects
     ></video>
     <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
     <div class="project-desc">
-
+    TBD
     </div>
   </div>
   <div class="project-col">
@@ -151,7 +151,7 @@ Selected Projects
     ></video>
     <div class="project-title">Bio-inspired Design for Robotic Swimming</div>
     <div class="project-desc">
-
+    TBD
     </div>
   </div>
   <div class="project-col">
@@ -164,7 +164,7 @@ Selected Projects
     ></video>
     <div class="project-title">Reconfigurable Soft Hinges via Pinched Tubes</div>
     <div class="project-desc">
-
+    TBD
     </div>
   </div>
 </div>

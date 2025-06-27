@@ -130,19 +130,6 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
-      autoplay
-      muted
-      loop
-      playsinline
-    ></video>
-    <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
-    <div class="project-desc">
-    TBD
-    </div>
-  </div>
-  <div class="project-col">
-    <video
       src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
       autoplay
       muted

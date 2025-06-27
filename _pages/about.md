@@ -109,9 +109,10 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Origami Modular Robot Surface</div>
+    <div class="project-title">Shape Change Propagation for Robotic Swimming
+</div>
     <div class="project-desc">
-      CPG-based manipulation with a multi-module origami robot surface, enabling adaptive and programmable surface morphing for advanced robotic applications.
+
     </div>
   </div>
   <div class="project-col">
@@ -122,9 +123,48 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Metamaterial Robotics</div>
+    <div class="project-title">Reconfigurable Curved Beams for Robotic Swimming</div>
     <div class="project-desc">
-      Exploration of metamaterial-based robotics, demonstrating programmable mechanical properties and novel actuation strategies for next-generation soft robots.
+
+    </div>
+  </div>
+  <div class="project-col">
+    <video
+      src="{{ '/files/viseos/soft_twisted_beam_reduced.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
+    <div class="project-desc">
+
+    </div>
+  </div>
+  <div class="project-col">
+    <video
+      src="{{ '/assets/videos/origami_modular.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Bio-inspired Design for Robotic Swimming</div>
+    <div class="project-desc">
+
+    </div>
+  </div>
+  <div class="project-col">
+    <video
+      src="{{ '/assets/videos/metamaterial_robotics.mp4' | relative_url }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    <div class="project-title">Reconfigurable Soft Hinges via Pinched Tubes</div>
+    <div class="project-desc">
+
     </div>
   </div>
 </div>

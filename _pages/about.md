@@ -31,7 +31,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   min-width: 260px;
   background: #f8f8f8;
   padding: 0 0 1.5rem 0;
-  border-radius: 12px;
+  border-radius: 0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
   display: flex;
   flex-direction: column;

@@ -50,9 +50,7 @@ I am actively involved in teaching and mentoring at EPFL, primarily by teaching 
 
 I typically supervise one to three Master's students each semester for projects or theses. 
 
-Below are some of the students I have mentored:
-
-### Previous Students
+### Previous Mentored Students
 
 <div class="custom-table-container">
 

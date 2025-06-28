@@ -174,7 +174,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/files/videos/origami_modular.mp4' | relative_url }}"
+      src="{{ '/files/videos/fish_reduced.mp4' | relative_url }}"
       autoplay
       muted
       loop

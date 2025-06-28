@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 ## 2023

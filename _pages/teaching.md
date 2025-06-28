@@ -46,8 +46,54 @@ h2, h3 {
 
 I am actively involved in teaching and mentoring at EPFL, primarily by teaching two courses in the Department of Mechanical Engineering and supervising Master's students on their semester and thesis projects.
 
-## Student Mentoring
+Teaching
+======
+I instruct two graduate-level courses at EPFL during the fall semester each year.
 
+### Fall 2025
+- **ME-410: Mechanical Product Design and Development**  
+  [Course Website](https://www.paikslab.com/courses/me-410)  
+
+- **ME-420: Advanced Design for Sustainable Future**  
+  [Course Website](https://www.paikslab.com/courses/me-420)  
+
+### Fall 2024
+**Course Project Demo Day**
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/it6jJS-H5x4?si=-xpRsOrXwWThhFgo"
+        width="560"
+        height="315"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
+- **ME-410: Mechanical Product Design and Development**  
+  [Course Website](https://www.paikslab.com/courses/me-410)  
+
+- **ME-420: Advanced Design for Sustainable Future**  
+  [Course Website](https://www.paikslab.com/courses/me-420)  
+
+### Fall 2023
+**Course Project Demo Day**
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/wza144iqfco?si=TrLDupygtGFRwhM-"
+        width="560"
+        height="315"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
+- **ME-410: Mechanical Product Design and Development**  
+  [Course Website](https://www.paikslab.com/courses/me-410)
+
+Student Mentoring
+======
 I typically supervise one to three Master's students each Spring semester for their semester projects or theses.
 
 ### Previous Mentored Students
@@ -106,49 +152,3 @@ I typically supervise one to three Master's students each Spring semester for th
   <sup>1</sup> Semester Project &nbsp; <sup>2</sup> Thesis &nbsp; <sup>*</sup> Co-advisor
 </div>
 </div>
-
-## Teaching
-
-I instruct two graduate-level courses at EPFL during the fall semester each year.
-
-### Fall 2025
-- **ME-410: Mechanical Product Design and Development**  
-  [Course Website](https://www.paikslab.com/courses/me-410)  
-
-- **ME-420: Advanced Design for Sustainable Future**  
-  [Course Website](https://www.paikslab.com/courses/me-420)  
-
-### Fall 2024
-**Course Project Demo Day**
-<div class="video-container">
-    <iframe 
-        src="https://www.youtube.com/embed/it6jJS-H5x4?si=-xpRsOrXwWThhFgo"
-        width="560"
-        height="315"
-        frameborder="0" 
-        allowfullscreen
-        loading="lazy">
-    </iframe>
-</div>
-
-- **ME-410: Mechanical Product Design and Development**  
-  [Course Website](https://www.paikslab.com/courses/me-410)  
-
-- **ME-420: Advanced Design for Sustainable Future**  
-  [Course Website](https://www.paikslab.com/courses/me-420)  
-
-### Fall 2023
-**Course Project Demo Day**
-<div class="video-container">
-    <iframe 
-        src="https://www.youtube.com/embed/wza144iqfco?si=TrLDupygtGFRwhM-"
-        width="560"
-        height="315"
-        frameborder="0" 
-        allowfullscreen
-        loading="lazy">
-    </iframe>
-</div>
-
-- **ME-410: Mechanical Product Design and Development**  
-  [Course Website](https://www.paikslab.com/courses/me-410)

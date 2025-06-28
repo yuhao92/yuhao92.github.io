@@ -115,6 +115,18 @@ I typically supervise one to three Master's students each semester for projects 
 - **ME-420: Advanced Design for Sustainable Future**  
 
 ### Fall 2024
+**Course Project Demo Day**
+<div class="video-container">
+    <iframe 
+        src="https://youtu.be/it6jJS-H5x4?si=SXT30NdAGS-mrJ_e"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 - **ME-410: Mechanical Product Design and Development**  
   [Course Website](https://www.paikslab.com/courses/me-410)  
 
@@ -122,5 +134,17 @@ I typically supervise one to three Master's students each semester for projects 
   [Course Website](https://www.paikslab.com/courses/me-420)  
 
 ### Fall 2023
+**Course Project Demo Day**
+<div class="video-container">
+    <iframe 
+        src="https://youtu.be/wza144iqfco?si=CS2LrBczALGiMW78"
+        width="1920"
+        height="1080"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 - **ME-410: Mechanical Product Design and Development**  
   [Course Website](https://www.paikslab.com/courses/me-410)

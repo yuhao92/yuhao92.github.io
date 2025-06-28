@@ -18,9 +18,6 @@ Research Interest
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
 <style>
-
-
-Copy
 .projects-grid {
   display: flex;
   flex-wrap: wrap;

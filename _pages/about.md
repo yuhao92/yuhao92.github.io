@@ -200,7 +200,7 @@ Selected Projects
   </div>
 </div>
 
-Publications
+<!-- Publications
 ======
 - **Y. Jiang**, S. Asmar, Z. Wang, S. Demirtas, and J. Paik, “CPG-Based Manipulation with Multi-Module Origami Robot Surface,” *IEEE Robotics and Automation Letters*, March 2025, doi: [10.1109/LRA.2025.3555381](https://doi.org/10.1109/LRA.2025.3555381).
 
@@ -222,7 +222,7 @@ Publications
 
 - M. Sharifzadeh, **Y. Jiang**, and D. M. Aukes, "Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot," *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 3437-3444, April 2021, [https://doi.org/10.1109/LRA.2021.3063961](https://doi.org/10.1109/LRA.2021.3063961).
 
-- Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric," *ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757)
+- Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric," *ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757) -->
 
 Patents
 ======

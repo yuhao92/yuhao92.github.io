@@ -98,7 +98,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 .project-desc {
   padding: 0 1rem 0 1rem;
-  font-size: 1em;
+  font-size: 0.97em;
   color: #222;
   overflow-wrap: break-word;
   word-break: break-word;
@@ -106,6 +106,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   max-height: none;
   overflow: visible;
   text-align: justify;
+  text-justify: inter-word; 
 }
 
 /* Responsive layout for mobile: stack columns */

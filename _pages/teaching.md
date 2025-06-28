@@ -113,8 +113,10 @@ I instruct two graduate-level courses at EPFL during the fall semester each year
 
 ### Fall 2025
 - **ME-410: Mechanical Product Design and Development**  
-  
+  [Course Website](https://www.paikslab.com/courses/me-410)  
+
 - **ME-420: Advanced Design for Sustainable Future**  
+  [Course Website](https://www.paikslab.com/courses/me-420)  
 
 ### Fall 2024
 **Course Project Demo Day**

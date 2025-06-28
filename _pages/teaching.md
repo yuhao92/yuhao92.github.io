@@ -100,7 +100,7 @@ Below are some of the students I have mentored:
       <td>Programmable surface using bistable structure</td>
       <td>MS in Robotics</td>
       <td>Spring 2024</td>
-      <td>Thesis, Co-advisor</td>
+      <td>Thesis</td>
     </tr>
   </tbody>
 </table>

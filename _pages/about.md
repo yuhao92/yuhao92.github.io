@@ -18,6 +18,9 @@ Research Interest
 I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems tailored for locomotion and manipulation tasks.
 
 <style>
+
+
+Copy
 .projects-grid {
   display: flex;
   flex-wrap: wrap;
@@ -65,9 +68,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   color: #222;
   overflow-wrap: break-word;
   word-break: break-word;
-  /* Ensures the description grows as needed */
   flex-grow: 1;
-  /* Prevents overflow hidden on small screens */
   max-height: none;
   overflow: visible;
 }
@@ -83,6 +84,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
     min-width: 0;
     width: 100%;
     padding-bottom: 1.2rem;
+    /* Override flex so each card grows by content only */
+    flex: 0 1 auto !important;
+    height: auto !important;
   }
   .project-title, .project-desc {
     padding-left: 0.7rem;
@@ -90,8 +94,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   }
   .project-desc {
     font-size: 0.98em;
-    /* If you have super long descriptions, you can limit height and allow scroll: */
-    /* max-height: 8em; overflow-y: auto; */
+    flex-grow: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
   }
 }
 
@@ -106,6 +111,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   }
   .project-desc {
     font-size: 0.95em;
+    flex-grow: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
   }
 }
 </style>

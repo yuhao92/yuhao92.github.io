@@ -15,11 +15,17 @@ author_profile: true
 .bracketed-list > li {
   counter-increment: item;
   margin-bottom: 1em;
+  display: list-item;
 }
 .bracketed-list > li::before {
   content: "[" counter(item) "] ";
   font-weight: bold;
   margin-right: 0.5em;
+  vertical-align: top;
+  display: inline-block;
+}
+.bracketed-list > li > p {
+  display: inline;
 }
 </style>
 

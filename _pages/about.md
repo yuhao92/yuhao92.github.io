@@ -64,9 +64,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 .project-title img {
   margin-left: auto;
-  width: 15%;
-  min-width: 36px;
-  max-width: 60px;
+  width: 22%;
+  min-width: 46px;
+  max-width: 90px;
   height: auto;
   display: inline-block;
 }
@@ -79,9 +79,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
     font-size: 1em;
   }
   .project-title img {
-    width: 16vw;
-    min-width: 26px;
-    max-width: 50px;
+    width: 28vw;
+    min-width: 36px;
+    max-width: 70px;
   }
 }
 @media (max-width: 540px) {
@@ -91,9 +91,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
     font-size: 0.98em;
   }
   .project-title img {
-    width: 20vw;
-    min-width: 20px;
-    max-width: 40px;
+    width: 34vw;
+    min-width: 28px;
+    max-width: 50px;
   }
 }
 
@@ -119,7 +119,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
     min-width: 0;
     width: 100%;
     padding-bottom: 1.2rem;
-    /* Override flex so each card grows by content only */
     flex: 0 1 auto !important;
     height: auto !important;
   }

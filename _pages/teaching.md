@@ -118,9 +118,9 @@ I typically supervise one to three Master's students each semester for projects 
 **Course Project Demo Day**
 <div class="video-container">
     <iframe 
-        src="https://youtu.be/it6jJS-H5x4?si=SXT30NdAGS-mrJ_e"
-        width="1920"
-        height="1080"
+        src="https://www.youtube.com/embed/it6jJS-H5x4?si=-xpRsOrXwWThhFgo"
+        width="560"
+        height="315"
         frameborder="0" 
         allowfullscreen
         loading="lazy">
@@ -137,9 +137,9 @@ I typically supervise one to three Master's students each semester for projects 
 **Course Project Demo Day**
 <div class="video-container">
     <iframe 
-        src="https://youtu.be/wza144iqfco?si=CS2LrBczALGiMW78"
-        width="1920"
-        height="1080"
+        src="https://www.youtube.com/embed/wza144iqfco?si=TrLDupygtGFRwhM-"
+        width="560"
+        height="315"
         frameborder="0" 
         allowfullscreen
         loading="lazy">

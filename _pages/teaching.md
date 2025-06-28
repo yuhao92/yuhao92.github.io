@@ -48,7 +48,7 @@ I am actively involved in teaching and mentoring at EPFL, primarily by teaching 
 
 ## Student Mentoring
 
-I typically supervise one to three Master's students each semester for projects or theses. 
+I typically supervise one to three Master's students each Spring semester for their semester projects or theses.
 
 ### Previous Mentored Students
 

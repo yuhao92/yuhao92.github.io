@@ -7,11 +7,11 @@ main:
   - title: "Research"
     url: /research/research_list
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Talks"
     url: /talks/    

@@ -10,7 +10,7 @@ location: "Lausanne, Switzerland"
 
 <div class="video-container">
     <iframe 
-        src="https://youtu.be/Gz0DezhwF9U"
+        src="https://www.youtube.com/watch?v=Gz0DezhwF9U&ab_channel=HarveyJiang"
         width="1920"
         height="1080"
         frameborder="0" 

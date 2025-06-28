@@ -237,9 +237,12 @@ Patents
 
 Presentations
 ======
-- RoboSoft 2023: Tunable Dynamic Walking via Soft Twisted Beam Vibration.
 
-- RoboSoft 2023 Workshop Presentation: Model Order Reduction for Vibrational Soft Twisted Beams Using Pseudo-rigid-body Modeling – A Case Study, [https://youtu.be/7g6SEwEBvhU](https://youtu.be/7g6SEwEBvhU).
+- RoboSoft 2025 (in person): CPG-Based Motion Generator for Multi-Module Origami Robot, [https://youtu.be/Gz0DezhwF9U](https://youtu.be/Gz0DezhwF9U).
+
+- RoboSoft 2023 (in person): Tunable Dynamic Walking via Soft Twisted Beam Vibration.
+
+- RoboSoft 2023 Workshop Presentation (in person): Model Order Reduction for Vibrational Soft Twisted Beams Using Pseudo-rigid-body Modeling – A Case Study, [https://youtu.be/7g6SEwEBvhU](https://youtu.be/7g6SEwEBvhU).
 
 - ICRA 2022: Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study, [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ).
 

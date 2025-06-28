@@ -46,7 +46,7 @@ h2, h3 {
 
 I am actively involved in teaching and mentoring at EPFL, primarily by teaching two courses in the Department of Mechanical Engineering and supervising Master's students on their semester and thesis projects.
 
-## Master's Student Mentoring
+## Student Mentoring
 
 I typically supervise one to three Master's students each semester for projects or theses. 
 

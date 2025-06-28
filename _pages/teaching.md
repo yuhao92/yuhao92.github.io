@@ -113,7 +113,7 @@ Below are some of the students I have mentored:
 
 ### Fall 2025
 - **ME-410: Mechanical Product Design and Development**  
-- 
+  
 - **ME-420: Advanced Design for Sustainable Future**  
 
 ### Fall 2024

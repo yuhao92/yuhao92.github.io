@@ -109,6 +109,8 @@ I typically supervise one to three Master's students each semester for projects 
 
 ## Teaching
 
+I instruct two graduate-level courses at EPFL during the fall semester each year.
+
 ### Fall 2025
 - **ME-410: Mechanical Product Design and Development**  
   

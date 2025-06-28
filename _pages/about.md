@@ -71,7 +71,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   display: inline-block;
 }
 
-/* Responsive fix for img in title */
 @media (max-width: 900px) {
   .project-title {
     padding-left: 0.7rem;
@@ -106,6 +105,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   flex-grow: 1;
   max-height: none;
   overflow: visible;
+  text-align: justify;
 }
 
 /* Responsive layout for mobile: stack columns */

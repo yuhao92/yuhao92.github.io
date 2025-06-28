@@ -106,7 +106,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   max-height: none;
   overflow: visible;
   text-align: justify;
-  text-justify: inter-word; 
 }
 
 /* Responsive layout for mobile: stack columns */

@@ -141,6 +141,9 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 }
 </style>
 
+Selected Projects
+======
+
 <div class="projects-grid">
   <div class="project-col">
     <video

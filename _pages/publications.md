@@ -19,7 +19,7 @@ author_profile: true
 }
 .bracketed-list > li::before {
   content: "[" counter(item) "] ";
-  font-weight: bold;
+  /* font-weight: bold; */  /* Remove or comment this out */
   margin-right: 0.5em;
   vertical-align: top;
   display: inline-block;

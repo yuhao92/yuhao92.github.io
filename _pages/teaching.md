@@ -70,14 +70,14 @@ Below are some of the students I have mentored:
     <tr>
       <td>Goncalo Pais<sup>1</sup></td>
       <td>Development of Energy Storage and Release Mechanisms for Rapid Dynamic Motions in Canfield Origami Robots</td>
-      <td>MS in Mechanical</td>
+      <td>MS in Mechanical Engineering</td>
       <td>Spring 2025</td>
       <td>Semester Project</td>
     </tr>
     <tr>
       <td>Aurora Ruggeri<sup>1</sup></td>
       <td>Study on soft metamaterials for object sensing and geometry generation</td>
-      <td>MS in Mechanical</td>
+      <td>MS in Mechanical Engineering</td>
       <td>Spring 2024</td>
       <td>Semester Project</td>
     </tr>

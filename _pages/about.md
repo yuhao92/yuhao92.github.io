@@ -98,7 +98,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 .project-desc {
   padding: 0 1rem 0 1rem;
-  font-size: 0.97em;
+  font-size: 1em;
   color: #222;
   overflow-wrap: break-word;
   word-break: break-word;

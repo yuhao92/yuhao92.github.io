@@ -156,7 +156,7 @@ Selected Projects
   </div>
   <div class="project-col">
     <video
-      src="{{ '/files/videos/metamaterial_robotics.mp4' | relative_url }}"
+      src="{{ '/files/videos/curved_beam_reduced.mp4' | relative_url }}"
       autoplay
       muted
       loop

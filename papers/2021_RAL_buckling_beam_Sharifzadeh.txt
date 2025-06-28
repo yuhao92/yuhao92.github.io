@@ -1,0 +1,10 @@
+@ARTICLE{2021_RAL_buckling_beam_Sharifzadeh,
+  author={Sharifzadeh, Mohammad and Jiang, Yuhao and Aukes, Daniel M.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot}, 
+  year={2021},
+  volume={6},
+  number={2},
+  pages={3437-3444},
+  keywords={Sports;Robots;Bending;Optimization;Switches;Soft robotics;Loading;Compliant joints and mechanisms;soft robot materials and design;soft robot applicationsc;modeling;control;and learning for soft robots},
+  doi={10.1109/LRA.2021.3063961}}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2020_IROS_pinch_tube_Jiang,
+  author={Jiang, Yuhao and Sharifzadeh, Mohammad and Aukes, Daniel M.},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Reconfigurable Soft Flexure Hinges via Pinched Tubes}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={8843-8850},
+  keywords={Shape;Prototypes;Fasteners;Soft robotics;Electron tubes;Usability;Tuning},
+  doi={10.1109/IROS45743.2020.9341109}}

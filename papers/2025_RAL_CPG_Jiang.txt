@@ -1,0 +1,10 @@
+@ARTICLE{2025_RAL_CPG_Jiang,
+  author={Jiang, Yuhao and Asmar, Serge El and Wang, Ziqiao and Demirtas, Serhat and Paik, Jamie},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={CPG-Based Manipulation With Multi-Module Origami Robot Surface}, 
+  year={2025},
+  volume={10},
+  number={5},
+  pages={4786-4793},
+  keywords={Robots;Robot kinematics;Optimization;Kinematics;Couplings;Generators;Dynamics;Actuators;Prototypes;Manipulator dynamics;Soft robot applications;modeling;control;learning for soft robots;multi-robot systems;origami robot;surface manipulation;central pattern generator},
+  doi={10.1109/LRA.2025.3555381}}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2022_ICRA_learning_foldable_Sharifzadeh,
+  author={Sharifzadeh, Mohammad and Jiang, Yuhao and Lafmejani, Amir Salimi and Aukes, Daniel M.},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)}, 
+  title={Compensating for Material Deformation in Foldable Robots via Deep Learning ― A Case Study}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={5184-5190},
+  keywords={Deformable models;Deep learning;Loading;Robot sensing systems;Trajectory;Laminates;Task analysis},
+  doi={10.1109/ICRA46639.2022.9811752}}

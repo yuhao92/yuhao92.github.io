@@ -1,0 +1,16 @@
+
+@proceedings{2020_IDETC_foldable_manipulator_Sharifzadeh,
+    author = {Sharifzadeh, Mohammad and Jiang, Yuhao and Khodambashi, Roozbeh and Aukes, Daniel},
+    title = {Increasing the Life Span of Foldable Manipulators With Fabric},
+    volume = {Volume 10: 44th Mechanisms and Robotics Conference (MR)},
+    series = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+    pages = {V010T10A087},
+    year = {2020},
+    month = {08},
+    abstract = {This paper evaluates how laminated techniques may be used to replicate the performance of more traditionally manufactured robotic manipulators. This evaluation is conducted by addressing the advantages and challenges of laminated manufacturing techniques, specifcally mechanism durability. In this study, we propose a novel fabric-polyester hinge design with an improved life-span. We additionally provide an overview of the design and construction workfow for a laminated 2-DOF spherical parallel manipulator for use as a camera stabilizer. Using the proposed manipulator as a case study, we demonstrate that mechanisms fabricated with lamination techniques can achieve similar performance to devices made using conventional methods.},
+    doi = {10.1115/DETC2020-22757},
+    url = {https://doi.org/10.1115/DETC2020-22757},
+    eprint = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2020/83990/V010T10A087/6586987/v010t10a087-detc2020-22757.pdf},
+}
+
+

@@ -1,0 +1,14 @@
+@article{Sharifzadeh_2021,
+doi = {10.1088/1748-3190/ac165d},
+url = {https://dx.doi.org/10.1088/1748-3190/ac165d},
+year = {2021},
+month = {aug},
+publisher = {IOP Publishing},
+volume = {16},
+number = {5},
+pages = {056017},
+author = {Sharifzadeh, Mohammad and Jiang, Yuhao and Lafmejani, Amir Salimi and Nichols, Kevin and Aukes, Daniel},
+title = {Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow},
+journal = {Bioinspiration & Biomimetics},
+abstract = {Among underwater vehicles, fish-inspired designs are often selected for their efficient gaits; these designs, however, remain limited in their maneuverability, especially in confined spaces. This paper presents a new design for a fish-inspired robot with two degree-of-freedom pectoral fins and a single degree-of-freedom caudal fin. This robot has been designed to operate in open-channel canals in the presence of external disturbances. With the complex interactions of water in mind, the composition of goal-specific swimming gaits is trained via a machine learning workflow in which automated trials in the lab are used to select a subset of potential gaits for outdoor trials. The goal of this process is to minimize the time cost of outdoor experimentation through the identification and transfer of high-performing gaits with the understanding that, in the absence of complete replication of the intended target environment, some or many of these gaits must be eliminated in the real world. This process is motivated by the challenge of balancing the optimization of complex, high degree-of-freedom robots for disturbance-heavy, random, niche environments against the limitations of current machine learning techniques in real-world experiments, and has been used in the design process as well as across a number of locomotion goals. The key contribution of this paper involves finding strategies that leverage online learning methods to train a bio-inspired fish robot by identifying high-performing gaits that have a consistent performance both in the laboratory experiments and the intended operating environment. Using the workflow described herein, the resulting robot can reach a forward swimming speed of 0.385 m s−1 (0.71 body lengths per second) and can achieve a near-zero turning radius.}
+}

@@ -1,0 +1,10 @@
+@ARTICLE{2023_RAL_Twsit_Beam_Jiang,
+  author={Jiang, Yuhao and Chen, Fuchen and Aukes, Daniel M.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Tunable Dynamic Walking via Soft Twisted Beam Vibration}, 
+  year={2023},
+  volume={8},
+  number={4},
+  pages={1967-1974},
+  keywords={Legged locomotion;Trajectory;Robots;Data models;Analytical models;Shape;Computational modeling;Soft sensors and actuators;soft robot materials and design;modeling;control;learning for soft robots},
+  doi={10.1109/LRA.2023.3244716}}

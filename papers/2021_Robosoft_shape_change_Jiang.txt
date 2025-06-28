@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2021_Robosoft_shape_change_Jiang,
+  author={Jiang, Yuhao and Sharifzadeh, Mohammad and Aukes, Daniel M.},
+  booktitle={2021 IEEE 4th International Conference on Soft Robotics (RoboSoft)}, 
+  title={Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={230-237},
+  keywords={Geometry;Pneumatic actuators;Adaptation models;Shape;Conferences;Prototypes;Soft robotics},
+  doi={10.1109/RoboSoft51838.2021.9479208}}

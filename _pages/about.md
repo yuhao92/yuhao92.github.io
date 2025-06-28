@@ -57,6 +57,44 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   font-size: 1.13em;
   font-weight: 600;
   text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+}
+
+.project-title img {
+  margin-left: auto;
+  width: 15%;
+  min-width: 36px;
+  max-width: 60px;
+  height: auto;
+  display: inline-block;
+}
+
+/* Responsive fix for img in title */
+@media (max-width: 900px) {
+  .project-title {
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    font-size: 1em;
+  }
+  .project-title img {
+    width: 16vw;
+    min-width: 26px;
+    max-width: 50px;
+  }
+}
+@media (max-width: 540px) {
+  .project-title {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: 0.98em;
+  }
+  .project-title img {
+    width: 20vw;
+    min-width: 20px;
+    max-width: 40px;
+  }
 }
 
 .project-desc {
@@ -85,10 +123,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
     flex: 0 1 auto !important;
     height: auto !important;
   }
-  .project-title, .project-desc {
-    padding-left: 0.7rem;
-    padding-right: 0.7rem;
-  }
   .project-desc {
     font-size: 0.98em;
     flex-grow: 0 !important;
@@ -99,13 +133,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 /* For extra small screens */
 @media (max-width: 540px) {
-  .project-title, .project-desc {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
-  .project-title {
-    font-size: 1em;
-  }
   .project-desc {
     font-size: 0.95em;
     flex-grow: 0 !important;
@@ -114,9 +141,6 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   }
 }
 </style>
-
-Selected Projects
-=================
 
 <div class="projects-grid">
   <div class="project-col">
@@ -127,10 +151,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">CPG-Based Multi-Module Robotic Manipulation</div>
+    <div class="project-title">
+      CPG-Based Multi-Module Robotic Manipulation
+      <img src="/files/research/eu-flag.png" alt="EU Funding">
+    </div>
     <div class="project-desc">
       This project marks the first application of the Central Pattern Generator (CPG) method to manipulation tasks in multi-module robotic systems. A novel data-driven optimization framework, integrated with dynamic simulations, efficiently identifies optimal CPG parameters in complex, high-dimensional spaces. This enables robust manipulation of objects with diverse sizes, shapes, and materials, as demonstrated through simulations and prototype experiments.
-      <img src="/files/research/eu-flag.png" width="15%">
     </div>
   </div>
   <div class="project-col">
@@ -141,10 +167,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Soft Twisted Beam Vibration for Robotic Walking</div>
+    <div class="project-title">
+      Soft Twisted Beam Vibration for Robotic Walking
+      <img src="/files/research/nsf.png" alt="NSF Funding">
+    </div>
     <div class="project-desc">
       This project investigates a novel, underactuated soft twisted beam structure that leverages structural intelligence to achieve effective locomotion. When actuated by a simple 2D vibrational force, the structure generates complex 3D motions. The study first examines the dynamic behavior of a single twisted beam, and then integrates these beams into a quadrupedal robot, Flix_Walker, which demonstrates three distinct and versatile locomotion modes, all achieved with minimal actuation.
-      <img src="/files/research/nsf.png" width="15%">
     </div>
   </div>
   <div class="project-col">
@@ -155,11 +183,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Shape Change Propagation for Robotic Swimming
-</div>
+    <div class="project-title">
+      Shape Change Propagation for Robotic Swimming
+      <img src="/files/research/nsf.png" alt="NSF Funding">
+    </div>
     <div class="project-desc">
-    This project introduces a soft tubular swimming robot that leverages shape propagation—a concept where actuation forces are transformed by the robot's changing shape. By transmitting deformation from a central soft pneumatic actuator to curved fins, the device produces complex, asymmetric swimming strokes from simple, symmetric inputs. This approach simplifies control and power delivery while utilizing the mechanics of curved soft materials for effective locomotion.
-    <img src="/files/research/nsf.png" width="15%">
+      This project introduces a soft tubular swimming robot that leverages shape propagation—a concept where actuation forces are transformed by the robot's changing shape. By transmitting deformation from a central soft pneumatic actuator to curved fins, the device produces complex, asymmetric swimming strokes from simple, symmetric inputs. This approach simplifies control and power delivery while utilizing the mechanics of curved soft materials for effective locomotion.
     </div>
   </div>
   <div class="project-col">
@@ -170,10 +199,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Reconfigurable Curved Beams for Robotic Swimming</div>
+    <div class="project-title">
+      Reconfigurable Curved Beams for Robotic Swimming
+      <img src="/files/research/nsf.png" alt="NSF Funding">
+    </div>
     <div class="project-desc">
-    This project explores how the stiffness and buckling behavior of curved beams can be tuned through changes in length, camber angle, and width. By leveraging the natural tendency of curved beams to preferentially buckle in specific directions, the design enables passive generation of net work and moments from simple, symmetric inputs—reducing the need for complex control in soft robotic systems.
-    <img src="/files/research/nsf.png" width="15%">
+      This project explores how the stiffness and buckling behavior of curved beams can be tuned through changes in length, camber angle, and width. By leveraging the natural tendency of curved beams to preferentially buckle in specific directions, the design enables passive generation of net work and moments from simple, symmetric inputs—reducing the need for complex control in soft robotic systems.
     </div>
   </div>
   <div class="project-col">
@@ -184,10 +215,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Bio-inspired Design for Robotic Swimming</div>
+    <div class="project-title">
+      Bio-inspired Design for Robotic Swimming
+      <img src="/files/research/nsf.png" alt="NSF Funding">
+    </div>
     <div class="project-desc">
-    This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
-    <img src="/files/research/nsf.png" width="15%">
+      This work introduces a fish-inspired underwater robot for maneuverability in open-channel canals under external disturbances. A machine learning workflow is used to train and select efficient swimming gaits in the lab, minimizing outdoor data collection by transferring only the most promising gaits for real-world testing. The key contribution is an online learning strategy that reliably identifies gaits with consistent performance across both laboratory and real-world environments.
     </div>
   </div>
   <div class="project-col">
@@ -198,10 +231,12 @@ Selected Projects
       loop
       playsinline
     ></video>
-    <div class="project-title">Reconfigurable Soft Hinges via Pinched Tubes</div>
+    <div class="project-title">
+      Reconfigurable Soft Hinges via Pinched Tubes
+      <img src="/files/research/nsf.png" alt="NSF Funding">
+    </div>
     <div class="project-desc">
-    This project introduces reconfigurable soft joints created by pinching thin-walled cylindrical tubes. These "virtual hinges" offer tunable compliance and can recover their original shape and stiffness when released. By leveraging 3D printing for rapid prototyping, the design enables easy adjustment of tube geometry and stiffness, allowing for customizable, passive rotational joints in soft robotic systems.
-    <img src="/files/research/nsf.png" width="15%">
+      This project introduces reconfigurable soft joints created by pinching thin-walled cylindrical tubes. These "virtual hinges" offer tunable compliance and can recover their original shape and stiffness when released. By leveraging 3D printing for rapid prototyping, the design enables easy adjustment of tube geometry and stiffness, allowing for customizable, passive rotational joints in soft robotic systems.
     </div>
   </div>
 </div>

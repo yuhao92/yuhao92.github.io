@@ -44,11 +44,13 @@ h2, h3 {
 }
 </style>
 
-I actively engage in teaching and mentoring students.
+I am actively involved in teaching and mentoring at EPFL, primarily by teaching two courses in the Department of Mechanical Engineering and supervising Master's students on their semester and thesis projects.
 
 ## Master's Student Mentoring
 
-I usually take one or two Master's students for semester projects or theses. Below are some of my mentored students:
+I typically supervise one to three Master's students each semester for projects or theses. 
+
+Below are some of the students I have mentored:
 
 ### Previous Students
 
@@ -110,12 +112,17 @@ I usually take one or two Master's students for semester projects or theses. Bel
 ## Teaching
 
 ### Fall 2025
-- **ME-410:** Mechanical Product Design and Development
-- **ME-420:** Advanced Design for Sustainable Future
+- **ME-410: Mechanical Product Design and Development**  
+- 
+- **ME-420: Advanced Design for Sustainable Future**  
 
 ### Fall 2024
-- **ME-410:** Mechanical Product Design and Development
-- **ME-420:** Advanced Design for Sustainable Future
+- **ME-410: Mechanical Product Design and Development**  
+  [Course Website](https://www.paikslab.com/courses/me-410)  
+
+- **ME-420: Advanced Design for Sustainable Future**  
+  [Course Website](https://www.paikslab.com/courses/me-420)  
 
 ### Fall 2023
-- **ME-410:** Mechanical Product Design and Development
+- **ME-410: Mechanical Product Design and Development**  
+  [Course Website](https://www.paikslab.com/courses/me-410)

@@ -5,12 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.bracketed-list {
+  list-style: none;
+  counter-reset: item;
+  padding-left: 0;
+  margin-left: 0;
+}
+.bracketed-list > li {
+  counter-increment: item;
+  margin-bottom: 1em;
+}
+.bracketed-list > li::before {
+  content: "[" counter(item) "] ";
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+</style>
+
 ## Journal Papers
 
 <div class="infoblock">
 <div class="blocktitle"></div>
-<div class="blockcontent">  
-<ol>
+<div class="blockcontent">
+<ol class="bracketed-list">
 
 <li>
   <p>
@@ -62,13 +80,12 @@ author_profile: true
 </div>
 </div>
 
-
 ## Conference Papers
 
 <div class="infoblock">
 <div class="blocktitle"></div>
 <div class="blockcontent">
-<ol>
+<ol class="bracketed-list">
 
 <li>
   <p>

@@ -267,7 +267,7 @@ Selected Projects
 
 - Sharifzadeh, M, **Jiang, Y**, Khodambashi, R, & Aukes, D. "Increasing the Life Span of Foldable Manipulators With Fabric," *ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*. Volume 10: 44th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2020. V010T10A087. ASME. [https://doi.org/10.1115/DETC2020-22757](https://doi.org/10.1115/DETC2020-22757) -->
 
-Patents
+<!-- Patents
 ======
 
 - "Tunable Motion Using Flexible Twisted Beams", Daniel Aukes, **Yuhao Jiang**, Fuchen Chen - US Patent Application 20240391542
@@ -276,7 +276,7 @@ Patents
  
 - “Buckling beams for underwater and terrestrial autonomous vehicles”, D Aukes, M Sharifzadeh, **Y Jiang** - US Patent US20230121727A1
 
-- “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2
+- “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2 -->
 
 <!-- Presentations
 ======

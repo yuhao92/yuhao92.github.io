@@ -313,13 +313,11 @@ Public Outreach
 
 2. **2024 RRL Demo Day:**  
    Full-day public event for projects from RRL and ME-410 class  
-   [Website](https://www.paikslab.com/courses)  
-   [Report](https://youtu.be/it6jJS-H5x4?si=gyGUmFWXbrALHeCM)
+   [Website](https://www.paikslab.com/courses), [Report](https://youtu.be/it6jJS-H5x4?si=gyGUmFWXbrALHeCM)
 
 3. **2023 RRL Demo Day:**  
    Full-day public event for projects from RRL and ME-410 class  
-   [Website](https://sites.google.com/view/rrl-me410/home)  
-   [Report](https://youtu.be/wza144iqfco?si=_HfGVhsnzebmp7ZM)
+   [Website](https://sites.google.com/view/rrl-me410/home), [Report](https://youtu.be/wza144iqfco?si=_HfGVhsnzebmp7ZM)
 
 4. **Robosoft 2021 Workshop:**  
    “Breaking the Mold: Challenging Current Paradigms in Soft Robotics”  

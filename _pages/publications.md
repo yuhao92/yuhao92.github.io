@@ -132,6 +132,17 @@ author_profile: true
   </p>
 </li>
 
+</ol>
+</div>
+</div>
+
+## Patents
+
+<div class="infoblock">
+<div class="blocktitle"></div>
+<div class="blockcontent">
+<ul class="bracketed-list">
+
 <li>
   <p>
     <b>Tunable Motion Using Flexible Twisted Beams</b><br>

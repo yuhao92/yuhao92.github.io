@@ -297,6 +297,45 @@ Presentations
 
 - IROS 2020: Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
 
+
+Public Outreach
+======
+
+## Media Interview
+
+1. **RTS Education and Scientific Program:** Feature in “A guide to the future: Swiss Federal Institute of Technology 02”  
+   [https://youtu.be/9yoNLg5Qho0?si=T48imzSqyShXc3ks](https://youtu.be/9yoNLg5Qho0?si=T48imzSqyShXc3ks)
+
+## Organized Events
+
+1. **IROS 2025 Workshop:**  
+   S'MORE: Shape-Morphing Robotics via Embodied Sensing and Mechanisms 
+   [https://www.shapemorphingrobot.com/](https://www.shapemorphingrobot.com/)  
+
+2. **2024 RRL Demo Day:**  
+   Full-day public event for projects from RRL and ME-410 class  
+   [https://www.paikslab.com/courses](https://www.paikslab.com/courses)  
+   [https://youtu.be/it6jJS-H5x4?si=gyGUmFWXbrALHeCM](https://youtu.be/it6jJS-H5x4?si=gyGUmFWXbrALHeCM)
+
+3. **2023 RRL Demo Day:**  
+   Full-day public event for projects from RRL and ME-410 class  
+   [https://sites.google.com/view/rrl-me410/home](https://sites.google.com/view/rrl-me410/home)  
+   [https://youtu.be/wza144iqfco?si=_HfGVhsnzebmp7ZM](https://youtu.be/wza144iqfco?si=_HfGVhsnzebmp7ZM)
+
+4. **Robosoft 2021 Workshop:**  
+   “Breaking the Mold: Challenging Current Paradigms in Soft Robotics”  
+   [https://www.scrambots.com/robosoft-2021-workshop](https://www.scrambots.com/robosoft-2021-workshop)
+
+## Demos and Expositions
+
+1. RRL lab tours (~6 times per year)
+2. 2024 RRL Demo Day
+3. 2024 Swiss Robotics Day
+4. 2023 RRL Demo Day
+5. 2023 Swiss Robotics Day
+6. IdeaLab lab tours (~4 times per year)
+7. 2019 Southwest Robotics Symposium (SWRS)
+
 Academic Services
 ======
 

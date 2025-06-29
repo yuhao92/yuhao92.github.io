@@ -278,7 +278,7 @@ Patents
 
 - “Mechanisms for steering robotic fish”, D Aukes, M Sharifzadeh, K Nichols, **Y Jiang** - US Patent US11124281B2
 
-Presentations
+<!-- Presentations
 ======
 
 - RoboSoft 2025 (in person): CPG-Based Motion Generator for Multi-Module Origami Robot, [https://youtu.be/Gz0DezhwF9U](https://youtu.be/Gz0DezhwF9U).
@@ -295,7 +295,7 @@ Presentations
 
 - Robosoft 2021: Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots.
 
-- IROS 2020: Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo).
+- IROS 2020: Reconfigurable Soft Flexure Hinges via Pinched Tubes, [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo). -->
 
 
 Public Outreach
@@ -317,7 +317,7 @@ Public Outreach
 4. **Robosoft 2021 Workshop:**  
    “Breaking the Mold: Challenging Current Paradigms in Soft Robotics”  
    [Website](https://www.scrambots.com/robosoft-2021-workshop)
-   
+
 ### Demos and Expositions
 1. RRL lab tours (~6 times per year)
 2. 2024 RRL Demo Day

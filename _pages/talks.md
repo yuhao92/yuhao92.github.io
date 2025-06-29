@@ -19,21 +19,24 @@ Conference Proceedings Talks
 
 2. **ICRA 2022:**  
    “Compensating for Material Deformation in Foldable Robots Via Deep Learning -- a Case Study”  
-   [https://youtu.be/AwS4vabv-JQ](https://youtu.be/AwS4vabv-JQ)
+   [Video](https://youtu.be/AwS4vabv-JQ)
 
 3. **ICRA 2021:**  
    “Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot”  
-   [https://youtu.be/EszTDc9slyw](https://youtu.be/EszTDc9slyw)
+   [Video](https://youtu.be/EszTDc9slyw)
 
 4. **Robosoft 2021:**  
    “Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots”
 
 5. **IROS 2020:**  
    “Reconfigurable Soft Flexure Hinges via Pinched Tubes”  
-   [https://youtu.be/J5heXXD6mVo](https://youtu.be/J5heXXD6mVo)
+   [Video](https://youtu.be/J5heXXD6mVo)
 
 Workshop Presentations
 ======
+1. **RoboSoft 2025:**  
+  "CPG-Based Motion Generator for Multi-Module Origami Robot"
+  [Video](https://youtu.be/Gz0DezhwF9U?si=fhnNn_LdNq50Hxym)
 
 1. **RoboSoft 2023:**  
    “Model Order Reduction for Vibrational Soft Twisted Beams Using Pseudo-rigid-body Modeling – A Case Study”

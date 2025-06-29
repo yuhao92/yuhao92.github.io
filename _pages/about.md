@@ -303,7 +303,7 @@ Public Outreach
 * **Media Interview**
 
 1. **RTS Education and Scientific Program:** Feature in “A guide to the future: Swiss Federal Institute of Technology 02”  
-   [https://youtu.be/9yoNLg5Qho0?si=T48imzSqyShXc3ks](https://youtu.be/9yoNLg5Qho0?si=T48imzSqyShXc3ks)
+   [Watch on YouTube (from 9:21)](https://www.youtube.com/watch?v=9yoNLg5Qho0&t=561s)
 
 * **Organized Events**
 

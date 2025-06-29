@@ -145,28 +145,28 @@ author_profile: true
 
 <li>
   <p>
-    <b>Tunable Motion Using Flexible Twisted Beams</b><br>
+    <a href="https://www.freepatentsonline.com/y2024/0391542.html"><b>Tunable Motion Using Flexible Twisted Beams</b></a>.<br>
     Daniel Aukes, <b>Yuhao Jiang</b>, Fuchen Chen – US Patent Application 20240391542
   </p>
 </li>
 
 <li>
   <p>
-    <b>Pinched tubes for reconfigurable robots</b><br>
+    <a href="https://patents.google.com/patent/US12017347B2/en"><b>Pinched tubes for reconfigurable robots</b></a>.<br>
     Daniel Aukes, Mohammad Sharifzadeh, <b>Yuhao Jiang</b>, Nicholas Gravish, Mingsong Jiang – US Patent US20230127106A1
   </p>
 </li>
 
 <li>
   <p>
-    <b>Buckling beams for underwater and terrestrial autonomous vehicles</b><br>
+    <a href="https://patents.google.com/patent/US12240283B2/en"><b>Buckling beams for underwater and terrestrial autonomous vehicles</b></a>.<br>
     D Aukes, M Sharifzadeh, <b>Y Jiang</b> – US Patent US20230121727A1
   </p>
 </li>
 
 <li>
   <p>
-    <b>Mechanisms for steering robotic fish</b><br>
+    <a href="https://patents.google.com/patent/US11124281B2/en"><b>Mechanisms for steering robotic fish</b></a>.<br>
     D Aukes, M Sharifzadeh, K Nichols, <b>Y Jiang</b> – US Patent US11124281B2
   </p>
 </li>

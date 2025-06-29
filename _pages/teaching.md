@@ -50,14 +50,15 @@ Teaching
 ======
 I instruct two graduate-level courses at EPFL during the fall semester each year.
 
-### Fall 2025
+**Fall 2025**
 - **ME-410: Mechanical Product Design and Development**  
   [Course Website](https://www.paikslab.com/courses/me-410)  
 
 - **ME-420: Advanced Design for Sustainable Future**  
   [Course Website](https://www.paikslab.com/courses/me-420)  
 
-### Fall 2024
+**Fall 2024**
+
 **Course Project Demo Day**
 <div class="video-container">
     <iframe 
@@ -76,7 +77,8 @@ I instruct two graduate-level courses at EPFL during the fall semester each year
 - **ME-420: Advanced Design for Sustainable Future**  
   [Course Website](https://www.paikslab.com/courses/me-420)  
 
-### Fall 2023
+**Fall 2023**
+
 **Course Project Demo Day**
 <div class="video-container">
     <iframe 
@@ -96,7 +98,7 @@ Student Mentoring
 ======
 I typically supervise one to three Master's students each Spring semester for their semester projects or theses.
 
-### Previous Mentored Students
+**Previous Mentored Students**
 
 <div class="custom-table-container">
 

@@ -300,12 +300,12 @@ Presentations
 
 Public Outreach
 ======
-* **Media Interview**
+### Media Interview
 
 1. **RTS Education and Scientific Program:** Feature in “A guide to the future: Swiss Federal Institute of Technology 02”  
    [Watch on YouTube (from 9:21)](https://www.youtube.com/watch?v=9yoNLg5Qho0&t=561s)
 
-* **Organized Events**
+### Organized Events
 
 1. **IROS 2025 Workshop:**  
    S'MORE: Shape-Morphing Robotics via Embodied Sensing and Mechanisms 
@@ -323,7 +323,7 @@ Public Outreach
    “Breaking the Mold: Challenging Current Paradigms in Soft Robotics”  
    [Website](https://www.scrambots.com/robosoft-2021-workshop)
 
-* **Demos and Expositions**
+### Demos and Expositions
 
 1. RRL lab tours (~6 times per year)
 2. 2024 RRL Demo Day

@@ -301,30 +301,22 @@ Presentations
 Public Outreach
 ======
 ### Media Interview
-
 1. **RTS Education and Scientific Program:** Feature in “A guide to the future: Swiss Federal Institute of Technology 02”  
    [Watch on YouTube (from 9:21)](https://www.youtube.com/watch?v=9yoNLg5Qho0&t=561s)
-
 ### Organized Events
-
 1. **IROS 2025 Workshop:**  
    S'MORE: Shape-Morphing Robotics via Embodied Sensing and Mechanisms 
    [Website](https://www.shapemorphingrobot.com/)  
-
 2. **2024 RRL Demo Day:**  
    Full-day public event for projects from RRL and ME-410 class  
    [Website](https://www.paikslab.com/courses), [Report](https://youtu.be/it6jJS-H5x4?si=gyGUmFWXbrALHeCM)
-
 3. **2023 RRL Demo Day:**  
    Full-day public event for projects from RRL and ME-410 class  
    [Website](https://sites.google.com/view/rrl-me410/home), [Report](https://youtu.be/wza144iqfco?si=_HfGVhsnzebmp7ZM)
-
 4. **Robosoft 2021 Workshop:**  
    “Breaking the Mold: Challenging Current Paradigms in Soft Robotics”  
    [Website](https://www.scrambots.com/robosoft-2021-workshop)
-
 ### Demos and Expositions
-
 1. RRL lab tours (~6 times per year)
 2. 2024 RRL Demo Day
 3. 2024 Swiss Robotics Day
@@ -335,6 +327,5 @@ Public Outreach
 
 Academic Services
 ======
-
 * **Journal Reviewer**: The International Journal of Robotics Research (IJRR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), Soft Robotics (SoRo), Journal of Field Robotics (JFR), ASME Journal of Mechanisms and Robotics (JMR).
 * **Conference Reviewer**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), International Conference on Soft Robotics (Robosoft), ACM Symposium on Computational Fabrication (SCF)

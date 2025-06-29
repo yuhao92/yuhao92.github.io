@@ -46,7 +46,7 @@ h2, h3 {
 
 I am actively involved in teaching and mentoring at EPFL, primarily by teaching two courses in the Department of Mechanical Engineering and supervising Master's students on their semester and thesis projects.
 
-## Teaching
+Teaching
 ======
 I instruct two graduate-level courses at EPFL during the fall semester each year.
 
@@ -92,7 +92,7 @@ I instruct two graduate-level courses at EPFL during the fall semester each year
 - **ME-410: Mechanical Product Design and Development**  
   [Course Website](https://www.paikslab.com/courses/me-410)
 
-## Student Mentoring
+Student Mentoring
 ======
 I typically supervise one to three Master's students each Spring semester for their semester projects or theses.
 

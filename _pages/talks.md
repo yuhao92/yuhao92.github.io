@@ -44,9 +44,6 @@ h2, h3 {
 }
 </style>
 
-markdown
-
-Copy
 <style>
 .video-container {
   position: relative;

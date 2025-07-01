@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
-
-My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en) at [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of [Prof. Daniel Aukes](https://search.asu.edu/profile/2727366). I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
-
-Research Interest
-======
-
-I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems for locomotion and manipulation tasks.
 
 <style>
 .projects-grid {
@@ -64,7 +55,7 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
 
 .project-title img {
   margin-left: auto;
-  width: 22%;
+  width: 30%;
   min-width: 46px;
   max-width: 90px;
   height: auto;
@@ -140,6 +131,16 @@ I seek to explore novel mechanisms and control strategies aimed at enhancing the
   }
 }
 </style>
+
+About me
+======
+
+My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en) at [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of [Prof. Daniel Aukes](https://search.asu.edu/profile/2727366). I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
+
+Research Interest
+======
+
+I seek to explore novel mechanisms and control strategies aimed at enhancing the accessibility, functionality, and reliability of modular reconfigurable robotic systems across a spectrum of challenging and unfamiliar environments. My research centers on using dynamic modeling methods, complemented by simulations and machine learning techniques, to study and develop novel mechanisms and advanced controls for modular reconfigurable robots. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems for locomotion and manipulation tasks.
 
 Selected Projects
 ======

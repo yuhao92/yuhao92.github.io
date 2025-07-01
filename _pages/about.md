@@ -39,6 +39,7 @@ redirect_from:
   box-shadow: none;
   margin: 0;
   background: #000;
+  height: auto;
   display: block;
 }
 

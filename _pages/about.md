@@ -55,7 +55,7 @@ redirect_from:
 
 .project-title img {
   margin-left: auto;
-  width: 30%;
+  width: 25%;
   min-width: 46px;
   max-width: 90px;
   height: auto;

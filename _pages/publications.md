@@ -39,6 +39,7 @@ author_profile: true
   <p>
     <a href="https://doi.org/10.1109/LRA.2025.3555381"><b>CPG-Based Manipulation with Multi-Module Origami Robot Surface</b></a>.<br>
     <b>Y. Jiang</b>, S. Asmar, Z. Wang, S. Demirtas, and J. Paik. <em>IEEE Robotics and Automation Letters, March 2025.</em>
+    <a href="/papers/2025_ral_CPG_manipulation.pdf">[Preprint]</a>
     <a href="/papers/2025_RAL_CPG_Jiang.txt">[Bibtex]</a>
   </p>
 </li>
@@ -61,6 +62,7 @@ author_profile: true
   <p>
     <a href="https://doi.org/10.1109/LRA.2023.3244716"><b>Tunable Dynamic Walking via Soft Twisted Beam Vibration</b></a>.<br>
     <b>Y. Jiang</b>, F. Chen, and D. M. Aukes. <em>IEEE Robotics and Automation Letters, 8(4):1967-1974, April 2023.</em>
+    <a href="/papers/2023_ral_twisted_beam.pdf">[Preprint]</a>
     <a href="/papers/2023_RAL_Twsit_Beam_Jiang.txt">[Bibtex]</a>
   </p>
 </li>

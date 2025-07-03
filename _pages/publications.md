@@ -100,6 +100,7 @@ author_profile: true
   <p>
     <a href="https://doi.org/10.1109/RoboSoft60065.2024.10521938"><b>Embedded Optical Waveguide Sensors for Dynamic Behavior Monitoring in Twisted-Beam Structures</b></a>.<br>
     P. Bupe, <b>Y. Jiang</b>, J. Lin, T. Nguyen, M. Han, D. Aukes, C. Harnett. <em>2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), pp. 139-144.</em>
+    <a href="/papers/2024_Robosoft_twisted_optical_sensor.pdf">[Postprint]</a>
     <a href="/papers/2024_Robosoft_Optical_sensor_Bupe.txt">[Bibtex]</a>
   </p>
 </li>

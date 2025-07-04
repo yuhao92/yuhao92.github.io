@@ -46,8 +46,9 @@ author_profile: true
 
 <li>
   <p>
-    <a href="#"><b>Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped</b></a>.<br>
+    <a href="https://arxiv.org/abs/2507.02547"><b>Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped</b></a>.<br>
     <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes. <em>Under review, June 2025.</em>
+    <a href="https://arxiv.org/pdf/2507.02547">[Preprint]</a>
   </p>
 </li>
 

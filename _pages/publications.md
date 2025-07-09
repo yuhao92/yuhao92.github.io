@@ -28,6 +28,8 @@ author_profile: true
 }
 </style>
 
+See my [Google Scholar](https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=ao) for an up-to-date publication list.
+
 ## Journal Papers
 
 <div class="infoblock">

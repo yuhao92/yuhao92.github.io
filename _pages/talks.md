@@ -5,15 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-Seminar Talks
-======
-
+## Seminar Talks
 1. **Empowering Actuation of Soft Robotic Systems via Soft Curved Reconfigurable Anisotropic Mechanism**  
    Hosted by Prof. Nick Gravish and Prof. Michael Tolley, UCSD, Feb. 2023.
 
-Conference Proceedings Talks
-======
-
+## Conference Proceedings Talks
 1. **RoboSoft 2023:**  
    “Tunable Dynamic Walking via Soft Twisted Beam Vibration”
 
@@ -32,8 +28,7 @@ Conference Proceedings Talks
    “Reconfigurable Soft Flexure Hinges via Pinched Tubes”  
    [Video](https://youtu.be/J5heXXD6mVo)
 
-Workshop Presentations
-======
+## Workshop Presentations
 1. **RoboSoft 2025:**  
   "CPG-Based Motion Generator for Multi-Module Origami Robot"
   [Video](https://youtu.be/Gz0DezhwF9U?si=fhnNn_LdNq50Hxym)

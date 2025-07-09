@@ -47,7 +47,7 @@ h2, h3 {
 I am actively involved in teaching and mentoring at EPFL, primarily by teaching two courses in the Department of Mechanical Engineering and supervising Master's students on their semester and thesis projects.
 
 ## Teaching
-I instruct two graduate-level courses at EPFL during the fall semester each year.
+I instruct two graduate-level courses at EPFL during the Fall semester each year.
 
 ### Fall 2025
 - **ME-410: Mechanical Product Design and Development**  

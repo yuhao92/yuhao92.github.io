@@ -57,7 +57,7 @@
     height: 100%;
 }
 
-.author__name,
-.author__bio {
-  text-align: center;
+.sidebar .author__name,
+.sidebar .author__bio {
+  text-align: center !important;
 }

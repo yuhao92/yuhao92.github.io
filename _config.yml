@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yuhao Jiang, PhD"
   avatar           : "profile.jpg"
-  bio              : "Postdoc Researcher in Robotics"
+  bio              : bio: "Postdoc Researcher in Robotics<br><b>EPFL</b>"
   location         : "Lausanne, Switzerland"
-  employer         : "EPFL"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=ao"
   email            : "yuhao.jiang@epfl.ch"

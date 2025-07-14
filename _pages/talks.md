@@ -5,10 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Seminar Talks
-1. **Empowering Actuation of Soft Robotic Systems via Soft Curved Reconfigurable Anisotropic Mechanism**  
-   Hosted by Prof. Nick Gravish and Prof. Michael Tolley, UCSD, Feb. 2023.
-
 ## Conference Proceedings Talks
 1. **RoboSoft 2023:**  
    “Tunable Dynamic Walking via Soft Twisted Beam Vibration”
@@ -38,3 +34,7 @@ author_profile: true
 
 2. **ICRA 2022:**  
    “Modular Robots Using Soft Curved Reconfigurable Anisotropic Mechanisms”
+
+## Seminar Talks
+1. **Empowering Actuation of Soft Robotic Systems via Soft Curved Reconfigurable Anisotropic Mechanism**  
+   Hosted by Prof. Nick Gravish and Prof. Michael Tolley, UCSD, Feb. 2023.

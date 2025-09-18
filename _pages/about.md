@@ -12,7 +12,7 @@ redirect_from:
 .projects-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
   justify-content: center;
   margin-bottom: 2rem;
 }

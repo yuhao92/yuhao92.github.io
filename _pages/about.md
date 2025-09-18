@@ -131,16 +131,30 @@ redirect_from:
     overflow: visible !important;
   }
 }
-</style>
 
-.page__content p, .page__content li {
+/* Justify the first bio paragraph */
+.bio-intro {
   text-align: justify;
 }
 
-My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with [Prof. Jamie Paik](https://people.epfl.ch/jamie.paik/?lang=en) at [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/), EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of [Prof. Daniel Aukes](https://search.asu.edu/profile/2727366). I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
+/* Justify Research Interest content */
+.research-interest {
+  text-align: justify;
+}
 
-## Research Interest
-My research explores reconfigurable robotics with modular, shape‑morphing designs. I investigate how modular architectures and compliant mechanisms can reduce complexity, boost functionality, and improve safety. My approach enables robust autonomous operation in uncertain environments where fixed‑shape robots often falter. To this end, I develop dynamic modeling and simulation tools, design novel compliant mechanisms and modular architectures, and create model‑informed, AI‑enabled control strategies. I validate these through iterative design–prototype–test cycles, translating methods into robotic platforms that operate robustly in real‑world environments. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems for locomotion and manipulation tasks.
+</style>
+
+<p class="bio-intro">
+My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with
+<a href="https://people.epfl.ch/jamie.paik/?lang=en">Prof. Jamie Paik</a> at
+<a href="https://www.epfl.ch/labs/rrl/">Reconfigurable Robotics Lab</a>, EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of
+<a href="https://search.asu.edu/profile/2727366">Prof. Daniel Aukes</a>. I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
+</p>
+
+<h2>Research Interest</h2>
+<p class="research-interest">
+My research explores reconfigurable robotics with modular, shape‑morphing designs. I investigate how modular architectures and compliant mechanisms can reduce complexity, boost functionality, and improve safety. My approach enables robust autonomous operation in uncertain environments where fixed‑shape robots often falter. To this end, I develop dynamic modeling and simulation tools, design novel compliant mechanisms and modular architectures, and create model‑informed, AI‑enabled control strategies. I validate these through iterative design--prototype--test cycles, translating methods into robotic platforms that operate robustly in real‑world environments. Moreover, I actively engage in mentoring students, guiding them through designing, modeling, prototyping, and testing cutting-edge robotic systems for locomotion and manipulation tasks.
+</p>
 
 ## Selected Projects
 <div class="projects-grid">

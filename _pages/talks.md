@@ -5,32 +5,42 @@ permalink: /talks/
 author_profile: true
 ---
 <style>
+/* Bracketed ordered list with hanging indent */
 .bracketed-list {
   list-style: none;
   counter-reset: item;
   padding-left: 0;
   margin-left: 0;
 }
+
 .bracketed-list > li {
   counter-increment: item;
   margin-bottom: 1em;
+  position: relative;
+
+  /* Hanging indent so wrapped lines align under the first text line */
+  padding-left: 2.5em;  /* reserve space for the bracketed number */
 }
-.bracketed-list > li::marker {
-  content: "";
-}
+
 .bracketed-list > li::before {
   content: "[" counter(item) "] ";
-  margin-right: 0.5em;
-  vertical-align: top;
-  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.1em;         /* aligns the label within the reserved space */
+  text-align: right;
   font-weight: 600;
 }
+
+/* Links and meta styling */
 .bracketed-list a {
   text-decoration: none;
 }
+
 .meta {
   display: block;
   color: #555;
+  margin-top: 0.15em;
 }
 </style>
 

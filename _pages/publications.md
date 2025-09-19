@@ -86,7 +86,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
         <p>
           <a href="#"><b>Metamaterial Robotics</b></a>.<br>
           X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
-          <em>Submitted, under review 2025.</em>
+          <em>Under review 2025.</em>
         </p>
       </li>
 

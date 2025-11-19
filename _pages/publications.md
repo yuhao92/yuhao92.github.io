@@ -65,6 +65,14 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
 
       <li>
         <p>
+          <a href="https://doi.org/10.1126/scirobotics.adx1519"><b>Metamaterial Robotics</b></a>.<br>
+          X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
+          <em>Science Robotics, November 2025.</em>
+        </p>
+      </li>
+
+      <li>
+        <p>
           <a href="https://doi.org/10.1109/LRA.2025.3555381"><b>CPG-Based Manipulation with Multi-Module Origami Robot Surface</b></a>.<br>
           <b>Y. Jiang</b>, S. Asmar, Z. Wang, S. Demirtas, and J. Paik.
           <em>IEEE Robotics and Automation Letters, March 2025.</em>
@@ -82,13 +90,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
         </p>
       </li>
 
-      <li>
-        <p>
-          <a href="#"><b>Metamaterial Robotics</b></a>.<br>
-          X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
-          <em>Under review 2025.</em>
-        </p>
-      </li>
+
 
       <li>
         <p>

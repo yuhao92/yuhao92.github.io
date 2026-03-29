@@ -50,6 +50,18 @@ I am actively involved in teaching and mentoring at EPFL, primarily by teaching 
 I instruct two graduate-level courses at EPFL during the Fall semester each year.
 
 ### Fall 2025
+**Course Project Demo Day**
+<div class="video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/-3PPAShHCX8?si=1Vunve1nFMVtx8Mf"
+        width="560"
+        height="315"
+        frameborder="0" 
+        allowfullscreen
+        loading="lazy">
+    </iframe>
+</div>
+
 - **ME-410: Mechanical Product Design and Development**  
   [Course Website](https://www.paikslab.com/courses/me-410)  
 

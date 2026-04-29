@@ -341,5 +341,5 @@ My research explores reconfigurable robotics with modular, reconfigurable design
 
 ## Academic Services 
 * **Editorial Services**: IROS 2026 Associate Editor.
-* **Journal Reviewer**: The International Journal of Robotics Research (IJRR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), Soft Robotics (SoRo), IEEE/ASME Transactions on Mechatronics, Journal of Field Robotics (JFR), ASME Journal of Mechanisms and Robotics (JMR).
+* **Journal Reviewer**: The International Journal of Robotics Research (IJRR), IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), Soft Robotics (SoRo), IEEE/ASME Transactions on Mechatronics (T-Mech), Journal of Field Robotics (JFR), ASME Journal of Mechanisms and Robotics (JMR).
 * **Conference Reviewer**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), International Conference on Soft Robotics (Robosoft), ACM Symposium on Computational Fabrication (SCF)

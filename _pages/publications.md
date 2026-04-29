@@ -77,6 +77,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <a href="https://doi.org/10.1126/scirobotics.adx1519"><b>Metamaterial Robotics</b></a>.<br>
           X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
           <em>Science Robotics, November 2025.</em>
+          <a href="/papers/bibtex/2025_SciRo_Metamaterial.txt">[Bibtex]</a>
         </p>
       </li>
 

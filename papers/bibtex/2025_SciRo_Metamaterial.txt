@@ -1,0 +1,13 @@
+@article{
+doi:10.1126/scirobotics.adx1519,
+author = {Xiaoyang Zheng  and Yuhao Jiang  and Mustafa Mete  and Jingjing Li  and Ikumu Watanabe  and Takayuki Yamada  and Jamie Paik },
+title = {Metamaterial robotics},
+journal = {Science Robotics},
+volume = {10},
+number = {108},
+pages = {eadx1519},
+year = {2025},
+doi = {10.1126/scirobotics.adx1519},
+URL = {https://www.science.org/doi/abs/10.1126/scirobotics.adx1519},
+eprint = {https://www.science.org/doi/pdf/10.1126/scirobotics.adx1519},
+abstract = {Mechanical metamaterials with customized microstructures are increasingly shaping robotic design and functionality, enabling the integration of sensing, actuation, control, and computation within the robot body. This Review outlines how metamaterial design principles—mechanics-inspired architectures, shape-reconfigurable structures, and material-driven functionality—enhance adaptability and distributed intelligence in robotics. We also discuss how artificial intelligence supports metamaterial robotics in design, modeling, and control, advancing systems with complex sensory feedback, learning capability, and adaptive physical interactions. This Review aims to inspire the community to explore the transformative potential of metamaterial robotics, fostering innovations that bridge the gap between materials engineering and intelligent robotics. This Review outlines how metamaterial design principles enable adaptive, multifunctional, and intelligent robotics.}}

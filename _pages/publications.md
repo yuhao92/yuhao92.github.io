@@ -65,6 +65,15 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
 
       <li>
         <p>
+          <a href="https://arxiv.org/abs/2507.02547"><b>Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped</b></a>.<br>
+          <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
+          <em>IEEE/ASME Transactions on Mechatronics, Accepted, April 2026.</em>
+          <a href="/papers/prints/2026_TMech_quadulped.pdf">[Preprint]</a>
+        </p>
+      </li>
+
+      <li>
+        <p>
           <a href="https://doi.org/10.1126/scirobotics.adx1519"><b>Metamaterial Robotics</b></a>.<br>
           X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
           <em>Science Robotics, November 2025.</em>
@@ -80,17 +89,6 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <a href="/papers/bibtex/2025_RAL_CPG_Jiang.txt">[Bibtex]</a>
         </p>
       </li>
-
-      <li>
-        <p>
-          <a href="https://arxiv.org/abs/2507.02547"><b>Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped</b></a>.<br>
-          <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
-          <em>Under review, June 2025.</em>
-          <a href="https://arxiv.org/pdf/2507.02547">[Preprint]</a>
-        </p>
-      </li>
-
-
 
       <li>
         <p>

@@ -68,7 +68,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf"><b>Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion</b></a>.<br>
           <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
           <em>IEEE/ASME Transactions on Mechatronics, April 2026. Accepted.</em>
-          <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf">[Preprint]</a>
+          <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf">[preprint]</a>
         </p>
       </li>
 
@@ -77,7 +77,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <a href="https://doi.org/10.1126/scirobotics.adx1519"><b>Metamaterial Robotics</b></a>.<br>
           X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
           <em>Science Robotics, 10, eadx1519, 2025.</em>
-          <a href="/papers/prints/2025_SciRo_metamaterial.pdf">[PDF]</a>
+          <a href="/papers/prints/2025_SciRo_metamaterial.pdf">[preprint]</a>
           <a href="/papers/bibtex/2025_SciRo_Metamaterial.txt">[Bibtex]</a>
         </p>
       </li>

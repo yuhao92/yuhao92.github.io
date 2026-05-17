@@ -203,14 +203,14 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
       <li>
         <p>
           <a href="https://patents.google.com/patent/US12017347B2/en"><b>Pinched tubes for reconfigurable robots</b></a>.<br>
-          D. Aukes, M. Sharifzadeh, <b>Y. Jiang</b>, N. Gravish, M. Jiang — US Patent US20230127106A1
+          D. Aukes, M. Sharifzadeh, <b>Y. Jiang</b>, N. Gravish, M. Jiang — US Patent US12017347B2
         </p>
       </li>
 
       <li>
         <p>
           <a href="https://patents.google.com/patent/US12240283B2/en"><b>Buckling beams for underwater and terrestrial autonomous vehicles</b></a>.<br>
-          D. Aukes, M. Sharifzadeh, <b>Y. Jiang</b> — US Patent US20230121727A1
+          D. Aukes, M. Sharifzadeh, <b>Y. Jiang</b> — US Patent US12240283B2
         </p>
       </li>
 

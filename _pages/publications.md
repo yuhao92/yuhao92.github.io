@@ -87,7 +87,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <a href="https://doi.org/10.1109/LRA.2025.3555381"><b>CPG-Based Manipulation with Multi-Module Origami Robot Surface</b></a>.<br>
           <b>Y. Jiang</b>, S. Asmar, Z. Wang, S. Demirtas, and J. Paik.
           <em>IEEE Robotics and Automation Letters, vol. 10, no. 5, pp. 4786-4793, May 2025.</em>
-          <a href="/papers/prints/2025_ral_CPG_manipulation.pdf">[PDF]</a>
+          <a href="/papers/prints/2025_ral_CPG_manipulation.pdf">[preprint]</a>
           <a href="/papers/bibtex/2025_RAL_CPG_Jiang.txt">[Bibtex]</a>
         </p>
       </li>

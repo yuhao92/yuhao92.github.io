@@ -65,9 +65,20 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
 
       <li>
         <p>
+          <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf"><b>Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion</b></a>.<br>
+          <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
+          <em>IEEE/ASME Transactions on Mechatronics, April 2026. Accepted.</em>
+          <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf">[Preprint]</a>
+        </p>
+      </li>
+
+      <li>
+        <p>
           <a href="https://doi.org/10.1126/scirobotics.adx1519"><b>Metamaterial Robotics</b></a>.<br>
           X. Zheng, <b>Y. Jiang</b>, M. Mete, J. Li, I. Watanabe, T. Yamada, and J. Paik.
-          <em>Science Robotics, November 2025.</em>
+          <em>Science Robotics, 10, eadx1519, 2025.</em>
+          <a href="/papers/prints/2025_SciRo_metamaterial.pdf">[PDF]</a>
+          <a href="/papers/bibtex/2025_SciRo_Metamaterial.txt">[Bibtex]</a>
         </p>
       </li>
 
@@ -75,22 +86,11 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
         <p>
           <a href="https://doi.org/10.1109/LRA.2025.3555381"><b>CPG-Based Manipulation with Multi-Module Origami Robot Surface</b></a>.<br>
           <b>Y. Jiang</b>, S. Asmar, Z. Wang, S. Demirtas, and J. Paik.
-          <em>IEEE Robotics and Automation Letters, March 2025.</em>
-          <a href="/papers/prints/2025_ral_CPG_manipulation.pdf">[preprint]</a>
+          <em>IEEE Robotics and Automation Letters, vol. 10, no. 5, pp. 4786-4793, May 2025.</em>
+          <a href="/papers/prints/2025_ral_CPG_manipulation.pdf">[PDF]</a>
           <a href="/papers/bibtex/2025_RAL_CPG_Jiang.txt">[Bibtex]</a>
         </p>
       </li>
-
-      <li>
-        <p>
-          <a href="https://arxiv.org/abs/2507.02547"><b>Locomotion via Vibration of Soft, Twisted Beams with an Under-actuated Quadruped</b></a>.<br>
-          <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
-          <em>Under review, June 2025.</em>
-          <a href="https://arxiv.org/pdf/2507.02547">[Preprint]</a>
-        </p>
-      </li>
-
-
 
       <li>
         <p>

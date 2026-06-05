@@ -65,9 +65,9 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
 
       <li>
         <p>
-          <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf"><b>Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion</b></a>.<br>
+          <a href="https://doi.org/10.1109/TMECH.2026.3686693"><b>Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion</b></a>.<br>
           <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
-          <em>IEEE/ASME Transactions on Mechatronics, April 2026. Accepted.</em>
+          <em>IEEE/ASME Transactions on Mechatronics, June 2026.</em>
           <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf">[Preprint]</a>
         </p>
       </li>

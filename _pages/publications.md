@@ -69,6 +69,7 @@ See my <a href="https://scholar.google.com/citations?user=a_Lmc8AAAAAJ&hl=en&oi=
           <b>Y. Jiang</b>, F. Chen, J. Paik, and D. M. Aukes.
           <em>IEEE/ASME Transactions on Mechatronics, June 2026.</em>
           <a href="/papers/prints/2026_TMech_quadulped_twisted_beam.pdf">[Preprint]</a>
+          <a href="/papers/bibtex/2026_TMech_FlixWalker.txt">[Bibtex]</a>
         </p>
       </li>
 

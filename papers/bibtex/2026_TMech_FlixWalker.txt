@@ -1,0 +1,10 @@
+@ARTICLE{11551805,
+  author={Jiang, Yuhao and Chen, Fuchen and Paik, Jamie and Aukes, Daniel M.},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Vibration of Soft, Twisted Beams for Underactuated Quadrupedal Locomotion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Modeling;Robots;Legs;Simulation;Beams;Force;Loading;Prototypes;Contacts;Design methodology;Compliant joint mechanism;robotic locomotion;soft robot applications;underactuated robots},
+  doi={10.1109/TMECH.2026.3686693}}

@@ -147,7 +147,7 @@ redirect_from:
 <p class="bio-intro">
 My name is Yuhao Jiang (蒋宇豪). I'm a postdoc researcher working with
 <a href="https://people.epfl.ch/jamie.paik/?lang=en">Prof. Jamie Paik</a> at
-<a href="https://www.epfl.ch/labs/rrl/">Reconfigurable Robotics Lab</a>, EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in Aug. 2023 under the supervision of
+<a href="https://www.epfl.ch/labs/rrl/">Reconfigurable Robotics Lab</a>, EPFL. I obtained my Ph.D. degree in Mechanical Engineering from Arizona State University in 2023 under the supervision of
 <a href="https://search.asu.edu/profile/2727366">Prof. Daniel Aukes</a>. I received my M.S. and B.S. degree in Mechanical Engineering respectively from University of Florida in 2017 and Donghua University in 2015.
 </p>
 
